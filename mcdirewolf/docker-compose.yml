@@ -1,0 +1,21 @@
+minecraft-server:
+  ports:
+    - "25565:25565"
+
+  environment:
+    EULA: "TRUE"
+    WHITELIST: ourfunfamily,ourfunfamily2,ourfunfamily3
+    MODE: "creative"
+    TYPE: "FTB"
+    FTB_SERVER_MOD: "https://www.feed-the-beast.com/projects/ftb-presents-direwolf20-1-12/files/2591333"
+
+  image: itzg/minecraft-server
+
+  volumes:
+    - /Users/bomeara/Dropbox/minecraft/mcdirewolf:/data
+
+  container_name: mcdirewolf
+
+  tty: true
+  stdin_open: true
+  restart: always
