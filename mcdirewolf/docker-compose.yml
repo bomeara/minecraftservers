@@ -2,6 +2,8 @@ minecraft-server:
   ports:
     - "25565:25565"
 
+#note this uses mc 1.7.10
+
   environment:
     EULA: "TRUE"
     WHITELIST: ourfunfamily,ourfunfamily2,ourfunfamily3
