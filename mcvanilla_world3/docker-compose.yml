@@ -13,7 +13,7 @@ minecraft-server:
   volumes:
     - /Users/bomeara/Dropbox/minecraft/mcvanilla_world3:/data
 
-  container_name: mcvanilla
+  container_name: mcvanilla3
 
   tty: true
   stdin_open: true
