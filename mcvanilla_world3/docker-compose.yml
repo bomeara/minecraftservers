@@ -7,6 +7,7 @@ minecraft-server:
     WHITELIST: ourfunfamily,ourfunfamily2,ourfunfamily3
     MODE: creative
     MOTD: "Welcome to the O'Meara family and friends vanilla minecraft server. Vanilla comes from orchids!"
+    MEMORY: "2G"
 
   image: itzg/minecraft-server
 
