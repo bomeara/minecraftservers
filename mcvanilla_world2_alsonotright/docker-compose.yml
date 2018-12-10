@@ -1,0 +1,22 @@
+minecraft-server:
+  ports:
+    - "25566:25565"
+
+# to connect: omearalab24.local:25566
+
+  environment:
+    EULA: "TRUE"
+    WHITELIST: ourfunfamily,ourfunfamily2,ourfunfamily3
+    MODE: creative
+    MOTD: "Welcome to the O'Meara family and friends vanilla minecraft server. Vanilla comes from orchids!"
+
+  image: itzg/minecraft-server
+
+  volumes:
+    - /Users/bomeara/Dropbox/minecraft/mcvanilla_world2:/data
+
+  container_name: mcvanilla_world2
+
+  tty: true
+  stdin_open: true
+  restart: always
