@@ -1,0 +1,23 @@
+minecraft-server:
+  ports:
+    - "25565:25565"
+
+  environment:
+    EULA: "TRUE"
+    WHITELIST: ourfunfamily,ourfunfamily2,ourfunfamily3
+    MODE: creative
+    MOTD: "Welcome to our server. Be nice"
+    MEMORY: "4G"
+    TYPE: FTB
+    FTB_SERVER_MOD: https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10/files/2402889
+
+  image: itzg/minecraft-server
+
+  volumes:
+    - /Users/bomeara/Dropbox/minecraft/mcvanilla_FTB_June2019:/data
+
+  container_name: mcvanilla_FTB_June2019
+
+  tty: true
+  stdin_open: true
+  restart: always
