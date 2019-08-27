@@ -9,7 +9,7 @@ minecraft-server:
     MOTD: "Welcome to our server. Be nice"
     MEMORY: "4G"
     TYPE: FTB
-    FTB_SERVER_MOD: https://www.feed-the-beast.com/projects/ftb-infinity-lite-1-10/files/2402889
+    FTB_SERVER_MOD: https://www.feed-the-beast.com/projects/ftb-ultimate-reloaded/files/2714058
 
   image: itzg/minecraft-server
 
@@ -17,6 +17,7 @@ minecraft-server:
     - /Users/bomeara/Dropbox/minecraft/mcvanilla_FTB_June2019:/data
 
   container_name: mcvanilla_FTB_June2019
+  command: noconsole
 
   tty: true
   stdin_open: true

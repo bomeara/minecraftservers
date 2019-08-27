@@ -1,0 +1,236 @@
+[07:53:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:53:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:53:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:53:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:53:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:53:39] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[07:53:39] [Server thread/INFO]: Loading properties
+[07:53:39] [Server thread/INFO]: Default game type: CREATIVE
+[07:53:39] [Server thread/INFO]: Generating keypair
+[07:53:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:53:39] [Server thread/INFO]: Using default channel type
+[07:53:39] [Server thread/INFO]: Preparing level "world"
+[07:53:40] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:53:51] [Server thread/INFO]: Loaded 6 recipes
+[07:53:52] [Server thread/INFO]: Loaded 811 advancements
+[07:53:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:53:54] [Server thread/INFO]: Preparing spawn area: 0%
+[07:53:54] [Server thread/INFO]: Preparing spawn area: 0%
+[07:53:54] [Server thread/INFO]: Preparing spawn area: 0%
+[07:53:54] [Server thread/INFO]: Preparing spawn area: 0%
+[07:53:54] [Server thread/INFO]: Preparing spawn area: 83%
+[07:53:54] [Server thread/INFO]: Time elapsed: 2240 ms
+[07:53:54] [Server thread/INFO]: Done (15.032s)! For help, type "help"
+[08:01:18] [User Authenticator #1/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[08:01:18] [Server thread/INFO]: ourfunfamily[/192.168.1.130:63166] logged in with entity id 134 at (2.153396620883413, 113.0, 3.4051591352811923)
+[08:01:18] [Server thread/INFO]: ourfunfamily joined the game
+[08:01:59] [Server thread/INFO]: [@: Changed the block at 2, 70, -5]
+[08:03:53] [Server thread/INFO]: [@: Changed the block at 2, 70, -5]
+[08:04:01] [Server thread/INFO]: [ourfunfamily: Gamerule commandBlockOutput is now set to: false]
+[08:20:39] [Server thread/INFO]: [ourfunfamily: Set own game mode to Spectator Mode]
+[08:20:45] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[08:21:00] [Server thread/INFO]: [ourfunfamily: Set own game mode to Spectator Mode]
+[08:21:10] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[08:25:57] [User Authenticator #2/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[08:25:58] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:60277] logged in with entity id 3990 at (70.24125485495978, 65.0, 7.699999988079073)
+[08:25:58] [Server thread/INFO]: ourfunfamily3 joined the game
+[08:26:58] [Server thread/INFO]: [ourfunfamily: Gave 1 [Barrier] to ourfunfamily]
+[08:34:32] [Server thread/INFO]: [ourfunfamily: Gave 1 [Suspicious Stew] to ourfunfamily3]
+[08:35:15] [Server thread/INFO]: [ourfunfamily: Gamerule keepInventory is now set to: true]
+[08:35:17] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
+[08:36:10] [Server thread/INFO]: [ourfunfamily: Gave 64 [Suspicious Stew] to ourfunfamily3]
+[08:36:33] [Server thread/INFO]: [ourfunfamily: Applied effect Hunger to ourfunfamily3]
+[08:38:11] [Server thread/INFO]: [ourfunfamily: Applied effect Absorption to ourfunfamily3]
+[08:39:48] [Server thread/INFO]: [ourfunfamily: Removed effect Hunger from ourfunfamily3]
+[08:40:14] [Server thread/INFO]: [ourfunfamily: Applied effect Regeneration to ourfunfamily3]
+[08:40:27] [Server thread/INFO]: [ourfunfamily: Removed effect Absorption from ourfunfamily3]
+[08:42:20] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
+[08:42:37] [Server thread/INFO]: ourfunfamily has made the advancement [Cover Me With Diamonds]
+[08:43:01] [Server thread/INFO]: ourfunfamily3 has made the advancement [Cover Me With Diamonds]
+[08:43:39] [Server thread/INFO]: [ourfunfamily: Set own game mode to Survival Mode]
+[08:43:45] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
+[08:43:56] [Server thread/INFO]: ourfunfamily3 has made the advancement [Take Aim]
+[08:44:21] [Server thread/INFO]: ourfunfamily has made the advancement [Not Today, Thank You]
+[08:44:46] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
+[08:44:54] [Server thread/INFO]: [ourfunfamily: Applied effect Regeneration to ourfunfamily]
+[08:45:12] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[08:46:28] [Server thread/INFO]: [ourfunfamily: Set own game mode to Survival Mode]
+[08:47:25] [Server thread/INFO]: ourfunfamily3 has made the advancement [Monster Hunter]
+[08:47:41] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
+[08:48:05] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[08:48:13] [Server thread/INFO]: [ourfunfamily: Gamerule mobGriefing is now set to: false]
+[08:48:22] [Server thread/INFO]: [ourfunfamily: Set own game mode to Survival Mode]
+[08:48:57] [Server thread/INFO]: [ourfunfamily: Removed effect Absorption from ourfunfamily]
+[08:49:08] [Server thread/INFO]: [ourfunfamily: Removed effect Resistance from ourfunfamily]
+[08:49:22] [Server thread/INFO]: [ourfunfamily: Set the time to 1000]
+[08:50:38] [Server thread/INFO]: ourfunfamily has reached the goal [Postmortal]
+[08:51:04] [Server thread/INFO]: ourfunfamily3 was slain by ourfunfamily
+[08:51:26] [Server thread/INFO]: [ourfunfamily: Set spawn point to 39, 70, -2 for ourfunfamily3]
+[08:51:33] [Server thread/INFO]: ourfunfamily3 fell out of the world
+[08:51:33] [Server thread/INFO]: [ourfunfamily: Killed ourfunfamily3]
+[08:52:12] [Server thread/INFO]: ourfunfamily3 was slain by ourfunfamily
+[08:52:36] [Server thread/INFO]: death.attack.magic.player
+[08:53:53] [Server thread/INFO]: ourfunfamily3 was slain by ourfunfamily
+[08:54:52] [Server thread/INFO]: ourfunfamily3 was slain by ourfunfamily
+[08:55:57] [Server thread/INFO]: ourfunfamily was slain by ourfunfamily3
+[08:56:13] [Server thread/WARN]: ourfunfamily moved wrongly!
+[08:56:17] [Server thread/INFO]: ourfunfamily fell from a high place
+[08:56:27] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[08:56:37] [Server thread/INFO]: ourfunfamily3 was slain by ourfunfamily
+[08:57:01] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
+[08:58:03] [Server thread/INFO]: [ourfunfamily: Gave 1 [Debug Stick] to ourfunfamily]
+[08:58:51] [Server thread/INFO]: [ourfunfamily: Set the time to 13000]
+[08:58:56] [Server thread/WARN]: ourfunfamily3 moved too quickly! -9.259564834839054,4.976315577220603,0.1921080410333218
+[08:58:57] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily3 to ourfunfamily]
+[08:59:14] [Server thread/INFO]: ourfunfamily3 has made the advancement [Sweet Dreams]
+[09:01:06] [Server thread/INFO]: ourfunfamily has made the advancement [Best Friends Forever]
+[09:09:17] [Server thread/WARN]: Boat moved wrongly!
+[09:09:17] [Server thread/WARN]: Boat moved wrongly!
+[09:09:17] [Server thread/WARN]: Boat moved wrongly!
+[09:11:05] [Server thread/INFO]: [ourfunfamily: Set the time to 1000]
+[09:14:03] [Server thread/INFO]: [ourfunfamily: Gave 1 [Command Block] to 2]
+[09:16:59] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to -239.5, 68.47476221701564, -735.5]
+[09:16:59] [Server thread/WARN]: ourfunfamily moved too quickly! -321.50340609213345,0.0,-725.9887696564465
+[09:17:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[09:17:35] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to -239.5, 56.85234692924554, -687.5]
+[09:18:51] [Server thread/INFO]: [ourfunfamily: Set spawn point to -188, 63, -661 for ourfunfamily]
+[09:19:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3690ms or 73 ticks behind
+[09:19:03] [Server thread/INFO]: [ourfunfamily3: Set spawn point to 69, 64, -3 for ourfunfamily3]
+[09:20:44] [Server thread/INFO]: [ourfunfamily3: Changed the block at 103, 65, 8]
+[09:20:56] [Server thread/INFO]: [ourfunfamily3: Changed the block at 102, 64, 8]
+[09:22:15] [Server thread/INFO]: [ourfunfamily3: Changed the block at 53, 63, 22]
+[09:23:26] [Server thread/INFO]: [ourfunfamily3: Changed the block at 56, 67, -13]
+[09:24:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[09:26:01] [Server thread/INFO]: [ourfunfamily3: Gamerule mobGriefing is now set to: false]
+[09:27:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[09:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[09:30:36] [Server thread/INFO]: [ourfunfamily: Gave 1 [Command Block] to ourfunfamily]
+[09:32:59] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to -239.5, 63.0, -735.5]
+[09:32:59] [Server thread/WARN]: ourfunfamily moved too quickly! -330.84408208489765,0.0,-727.8533538221855
+[09:33:10] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to -239.5, 56.41373077819677, -687.5]
+[09:33:27] [Server thread/INFO]: [ourfunfamily: Set spawn point to -189, 63, -661 for ourfunfamily]
+[09:44:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[09:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2215ms or 44 ticks behind
+[09:46:37] [Server thread/INFO]: [ourfunfamily: Set own game mode to Spectator Mode]
+[09:46:58] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[09:47:02] [Server thread/INFO]: [ourfunfamily: Set own game mode to Spectator Mode]
+[09:47:04] [Server thread/INFO]: [ourfunfamily3: Gamerule doFireTick is now set to: false]
+[09:47:16] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[09:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11624ms or 232 ticks behind
+[09:47:56] [Server thread/WARN]: ourfunfamily3 moved too quickly! -0.014403665441520275,10.070796403405524,0.04683518570672973
+[09:48:35] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[09:49:21] [Server thread/INFO]: [ourfunfamily: Gave 1 [Debug Stick] to ourfunfamily]
+[09:49:29] [Server thread/WARN]: ourfunfamily3 moved too quickly! 6.158770361997227,0.0,7.999495307922693
+[09:49:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4219ms or 84 ticks behind
+[09:50:43] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[09:50:43] [Server thread/INFO]: ourfunfamily left the game
+[09:50:47] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[09:50:47] [Server thread/INFO]: ourfunfamily3 left the game
+[10:45:16] [User Authenticator #3/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[10:45:16] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:61819] logged in with entity id 29191 at (338.3382138568081, 172.63321817327713, 225.7344604213984)
+[10:45:16] [Server thread/INFO]: ourfunfamily3 joined the game
+[10:50:38] [Server thread/INFO]: [ourfunfamily3: Gave 1 [Command Block] to ourfunfamily3]
+[11:04:34] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[11:04:34] [Server thread/INFO]: ourfunfamily3 left the game
+[11:04:47] [User Authenticator #4/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[11:04:47] [Server thread/INFO]: ourfunfamily[/192.168.1.130:61131] logged in with entity id 31598 at (115.0535785728331, 74.0, -192.05000001192093)
+[11:04:47] [Server thread/INFO]: ourfunfamily joined the game
+[11:05:02] [Server thread/INFO]: [ourfunfamily: Gave 1 [Spawner] to ourfunfamily]
+[11:06:32] [Server thread/INFO]: [ourfunfamily: Changed the block at 119, 73, -192]
+[11:08:44] [Server thread/INFO]: ourfunfamily has made the advancement [Bring Home the Beacon]
+[11:09:19] [Server thread/INFO]: ourfunfamily fell out of the world
+[11:09:19] [Server thread/INFO]: [ourfunfamily: Killed ourfunfamily]
+[11:09:31] [Server thread/WARN]: ourfunfamily moved too quickly! 3.852515380532453,6.374995584100077,7.387536548144574
+[11:20:07] [Server thread/INFO]: [ourfunfamily: Set the time to 1000]
+[11:27:10] [User Authenticator #5/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[11:27:10] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:62268] logged in with entity id 35837 at (171.4741441452504, 117.3735325419649, 11.734499392925073)
+[11:27:10] [Server thread/INFO]: ourfunfamily3 joined the game
+[11:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[11:31:38] [Server thread/INFO]: [ourfunfamily: Successfully filled 116 blocks]
+[11:32:58] [Server thread/INFO]: [ourfunfamily: Successfully filled 81 blocks]
+[11:33:41] [Server thread/INFO]: [ourfunfamily: Successfully filled 313 blocks]
+[11:34:49] [Server thread/INFO]: [ourfunfamily: Successfully filled 376 blocks]
+[11:35:19] [Server thread/INFO]: [ourfunfamily: Successfully filled 390 blocks]
+[11:36:09] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
+[11:37:10] [Server thread/INFO]: ourfunfamily fell from a high place
+[11:37:21] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[11:38:03] [Server thread/INFO]: ourfunfamily fell from a high place
+[11:38:31] [Server thread/INFO]: [ourfunfamily: Killed 4 entities]
+[11:38:36] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[11:38:36] [Server thread/WARN]: ourfunfamily moved too quickly! 178.56201104529978,43.0,90.1469426332003
+[11:39:09] [Server thread/INFO]: ourfunfamily3 burned to death
+[11:39:17] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:40:04] [Server thread/INFO]: ourfunfamily3 was shot by ourfunfamily
+[11:40:11] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:40:11] [Server thread/WARN]: ourfunfamily3 moved too quickly! 100.62563168318138,46.6249998,18.705581342534735
+[11:40:46] [Server thread/INFO]: ourfunfamily was slain by ourfunfamily3
+[11:40:51] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[11:41:11] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:41:38] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
+[11:42:26] [Server thread/INFO]: ourfunfamily3 fell from a high place
+[11:42:33] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:42:33] [Server thread/WARN]: ourfunfamily3 moved too quickly! 93.53985054938823,46.6249998,36.79954134461221
+[11:42:33] [Server thread/WARN]: ourfunfamily3 moved too quickly! 93.53985054938823,46.6249998,36.79954134461221
+[11:42:35] [Server thread/INFO]: ourfunfamily3 fell from a high place
+[11:42:36] [Server thread/INFO]: ourfunfamily fell from a high place
+[11:42:43] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[11:42:43] [Server thread/WARN]: ourfunfamily moved too quickly! 75.0,-3.625,62.0
+[11:42:47] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:42:52] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:43:28] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:43:28] [Server thread/WARN]: ourfunfamily3 moved too quickly! 80.81303384028695,24.42548862216701,40.32071323503395
+[11:43:40] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
+[11:44:24] [Server thread/INFO]: ourfunfamily3 was shot by ourfunfamily
+[11:44:30] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:44:30] [Server thread/WARN]: ourfunfamily3 moved too quickly! 102.28871422912087,47.63201537348124,19.805523076670763
+[11:45:50] [Server thread/INFO]: ourfunfamily3 burned to death
+[11:45:57] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:45:57] [Server thread/WARN]: ourfunfamily3 moved too quickly! 98.51294207777516,46.6249998,13.283576096105815
+[11:46:57] [Server thread/INFO]: ourfunfamily3 fell out of the world
+[11:46:57] [Server thread/INFO]: [ourfunfamily: Killed ourfunfamily3]
+[11:47:03] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:47:03] [Server thread/WARN]: ourfunfamily3 moved too quickly! 96.05802319402076,48.6249998,35.79679671907022
+[11:47:03] [Server thread/WARN]: ourfunfamily3 moved too quickly! 96.05802319402076,48.6249998,35.79679671907022
+[11:47:08] [Server thread/INFO]: ourfunfamily3 fell from a high place
+[11:47:12] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:47:12] [Server thread/WARN]: ourfunfamily3 moved too quickly! 97.23386632594176,46.6249998,32.375276199811296
+[11:48:15] [Server thread/INFO]: ourfunfamily3 burned to death
+[11:48:21] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:49:33] [Server thread/INFO]: ourfunfamily3 burned to death
+[11:49:35] [Server thread/WARN]: ourfunfamily3 moved too quickly! -100.25964892576792,-46.6249998,-15.244936614897455
+[11:49:40] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:49:40] [Server thread/WARN]: ourfunfamily3 moved too quickly! 94.29696871624921,46.6249998,25.393770750714644
+[11:51:09] [Server thread/INFO]: ourfunfamily3 fell from a high place
+[11:51:32] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:51:32] [Server thread/WARN]: ourfunfamily3 moved too quickly! 110.8685009602712,46.6249998,28.422912982213887
+[11:51:33] [Server thread/INFO]: ourfunfamily was slain by Zombie Pigman
+[11:51:44] [Server thread/INFO]: ourfunfamily3 was slain by Zombie Pigman
+[11:51:53] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[11:52:08] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
+[11:52:24] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:54:21] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[11:54:21] [Server thread/INFO]: ourfunfamily3 left the game
+[11:54:43] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:56:37] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:58:03] [Server thread/INFO]: [ourfunfamily: Set the time to 1000]
+[11:58:14] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:58:48] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:59:07] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[11:59:29] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[12:00:45] [Server thread/INFO]: ourfunfamily fell from a high place
+[12:00:51] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[12:01:39] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[12:01:39] [Server thread/INFO]: ourfunfamily left the game
+[12:07:07] [Server thread/INFO]: Stopping the server
+[12:07:07] [Server thread/INFO]: Stopping server
+[12:07:07] [Server thread/INFO]: Saving players
+[12:07:07] [Server thread/INFO]: Saving worlds
+[12:07:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[12:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:07:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[12:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:07:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[12:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:07:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
