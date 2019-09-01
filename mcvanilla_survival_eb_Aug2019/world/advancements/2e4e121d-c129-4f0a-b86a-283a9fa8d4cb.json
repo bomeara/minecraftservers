@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2019-09-01 12:14:30 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2019-08-29 20:01:59 -0400"
@@ -379,6 +385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2019-09-01 11:53:59 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-08-30 19:49:38 -0400"
@@ -454,6 +466,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-08-29 20:17:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2019-09-01 11:59:31 -0400"
     },
     "done": true
   },
@@ -535,6 +553,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2019-08-29 20:17:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2019-09-01 11:53:59 -0400"
     },
     "done": true
   },
@@ -926,6 +950,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2019-09-01 11:59:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-30 19:50:14 -0400"
@@ -977,6 +1007,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2019-08-31 13:08:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2019-09-01 12:12:01 -0400"
     },
     "done": true
   },
@@ -1302,8 +1338,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-29 20:13:00 -0400",
+      "minecraft:desert_hills": "2019-09-01 11:53:47 -0400",
       "minecraft:desert": "2019-09-01 09:51:48 -0400",
+      "minecraft:savanna_plateau": "2019-09-01 12:07:33 -0400",
+      "minecraft:beach": "2019-09-01 11:59:26 -0400",
       "minecraft:river": "2019-08-31 11:43:57 -0400",
+      "minecraft:lukewarm_ocean": "2019-09-01 12:08:17 -0400",
+      "minecraft:savanna": "2019-09-01 11:57:17 -0400",
       "minecraft:plains": "2019-08-29 19:51:33 -0400"
     },
     "done": false
@@ -1317,6 +1358,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-30 19:53:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2019-09-01 12:09:00 -0400"
     },
     "done": true
   },
@@ -1419,6 +1466,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2019-08-30 19:50:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2019-09-01 12:12:01 -0400"
     },
     "done": true
   },
