@@ -10,3 +10,7 @@ Based on the compose files, worlds will be saved in the relevant dir in dropbox
 Other users on the local network can then join via your computer name: `omearalab24.local` for my laptop, for example.
 
 You might want to copy whitelist.json to ops.json
+
+## Update Aug 2019
+
+Using bare metal servers turns out to have less lag. For those, I'm using this repo to store the save files as well.
