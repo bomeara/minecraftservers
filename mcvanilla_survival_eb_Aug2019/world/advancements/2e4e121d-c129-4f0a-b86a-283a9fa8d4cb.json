@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2019-09-04 20:55:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2019-09-02 20:06:39 -0400"
@@ -964,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2019-09-04 20:29:24 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 18:51:37 -0400"
@@ -1031,6 +1043,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2019-09-02 20:06:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2019-09-04 20:29:24 -0400"
     },
     "done": true
   },
@@ -1194,6 +1212,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-31 11:34:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2019-09-04 20:29:24 -0400"
     },
     "done": true
   },
@@ -1767,10 +1791,12 @@
       "minecraft:forest": "2019-08-29 20:13:00 -0400",
       "minecraft:desert_hills": "2019-09-01 11:53:47 -0400",
       "minecraft:desert": "2019-09-01 09:51:48 -0400",
+      "minecraft:birch_forest": "2019-09-04 20:31:33 -0400",
       "minecraft:savanna_plateau": "2019-09-01 12:07:33 -0400",
       "minecraft:beach": "2019-09-01 11:59:26 -0400",
       "minecraft:river": "2019-08-31 11:43:57 -0400",
       "minecraft:lukewarm_ocean": "2019-09-01 12:08:17 -0400",
+      "minecraft:stone_shore": "2019-09-04 20:31:19 -0400",
       "minecraft:savanna": "2019-09-01 11:57:17 -0400",
       "minecraft:plains": "2019-08-29 19:51:33 -0400"
     },
@@ -2010,6 +2036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_yellow_dye": "2019-09-04 20:55:26 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-09-01 09:32:39 -0400"
@@ -2061,6 +2093,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2019-09-02 19:24:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2019-09-04 20:55:26 -0400"
     },
     "done": true
   },
