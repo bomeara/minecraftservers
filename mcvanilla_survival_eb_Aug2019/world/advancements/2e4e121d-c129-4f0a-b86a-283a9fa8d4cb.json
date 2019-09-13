@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-12 20:15:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2019-08-30 19:49:38 -0400"
@@ -224,6 +230,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2019-08-31 12:53:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-12 20:15:32 -0400"
     },
     "done": true
   },
@@ -368,6 +380,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-30 19:50:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2019-09-12 20:08:29 -0400"
     },
     "done": true
   },
@@ -577,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2019-09-12 20:08:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2019-09-02 20:14:06 -0400"
@@ -721,6 +745,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2019-08-31 11:19:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-12 20:15:32 -0400"
     },
     "done": true
   },
@@ -976,6 +1006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2019-09-12 20:08:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 18:51:37 -0400"
@@ -986,6 +1022,7 @@
     "criteria": {
       "minecraft:skeleton": "2019-08-31 12:35:41 -0400",
       "minecraft:spider": "2019-09-01 09:32:08 -0400",
+      "minecraft:creeper": "2019-09-12 20:08:14 -0400",
       "minecraft:cave_spider": "2019-09-01 08:47:59 -0400",
       "minecraft:zombie": "2019-08-29 20:09:41 -0400",
       "minecraft:drowned": "2019-09-02 20:07:07 -0400"
@@ -1479,6 +1516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2019-09-12 20:25:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-08-31 11:34:47 -0400"
@@ -1789,14 +1832,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2019-08-29 20:13:00 -0400",
+      "minecraft:badlands_plateau": "2019-09-12 20:25:47 -0400",
       "minecraft:desert_hills": "2019-09-01 11:53:47 -0400",
       "minecraft:desert": "2019-09-01 09:51:48 -0400",
       "minecraft:birch_forest": "2019-09-04 20:31:33 -0400",
+      "minecraft:badlands": "2019-09-12 20:24:54 -0400",
       "minecraft:savanna_plateau": "2019-09-01 12:07:33 -0400",
       "minecraft:beach": "2019-09-01 11:59:26 -0400",
       "minecraft:river": "2019-08-31 11:43:57 -0400",
       "minecraft:lukewarm_ocean": "2019-09-01 12:08:17 -0400",
       "minecraft:stone_shore": "2019-09-04 20:31:19 -0400",
+      "minecraft:wooded_badlands_plateau": "2019-09-12 20:37:40 -0400",
       "minecraft:savanna": "2019-09-01 11:57:17 -0400",
       "minecraft:plains": "2019-08-29 19:51:33 -0400"
     },
@@ -1835,6 +1881,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2019-08-29 20:11:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2019-09-12 20:08:29 -0400"
     },
     "done": true
   },
@@ -1994,6 +2046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2019-09-12 20:15:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2019-08-31 12:33:32 -0400"
@@ -2023,6 +2081,12 @@
       "textures/entity/cat/red.png": "2019-08-31 13:02:29 -0400"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2019-09-12 20:15:32 -0400"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {

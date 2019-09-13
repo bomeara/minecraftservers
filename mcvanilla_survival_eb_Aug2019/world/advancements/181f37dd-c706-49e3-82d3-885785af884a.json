@@ -1383,6 +1383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-12 20:14:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-08-29 20:12:34 -0400"
@@ -1446,6 +1452,12 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2019-08-29 20:16:54 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-12 20:14:57 -0400"
     },
     "done": true
   },
@@ -1587,6 +1599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2019-09-12 20:28:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2019-09-01 09:51:54 -0400"
@@ -1610,8 +1628,10 @@
       "cooked_porkchop": "2019-09-01 11:56:54 -0400",
       "cooked_mutton": "2019-08-31 12:39:16 -0400",
       "cooked_beef": "2019-08-31 11:17:38 -0400",
+      "beef": "2019-09-12 20:11:50 -0400",
       "apple": "2019-09-01 08:44:20 -0400",
       "cooked_cod": "2019-08-31 11:30:25 -0400",
+      "rabbit": "2019-09-12 20:09:09 -0400",
       "bread": "2019-08-29 20:03:28 -0400",
       "suspicious_stew": "2019-09-02 19:47:38 -0400",
       "melon_slice": "2019-08-29 20:23:03 -0400",
@@ -1822,6 +1842,12 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2019-08-29 20:05:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2019-09-12 20:28:23 -0400"
     },
     "done": true
   },
@@ -2416,6 +2442,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-08-29 20:12:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2019-09-12 20:08:04 -0400"
     },
     "done": true
   },
