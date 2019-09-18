@@ -1,154 +1,62 @@
-[19:27:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:27:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:27:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:27:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:27:48] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[19:27:48] [Server thread/INFO]: Loading properties
-[19:27:48] [Server thread/INFO]: Default game type: CREATIVE
-[19:27:48] [Server thread/INFO]: Generating keypair
-[19:27:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:27:49] [Server thread/INFO]: Using default channel type
-[19:27:49] [Server thread/INFO]: Preparing level "world"
-[19:27:50] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:28:39] [Server thread/INFO]: Loaded 6 recipes
-[19:28:40] [Server thread/INFO]: Loaded 811 advancements
-[19:28:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:28:43] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:44] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:45] [Server thread/INFO]: Preparing spawn area: 0%
-[19:28:45] [Server thread/INFO]: Preparing spawn area: 64%
-[19:28:55] [Server thread/INFO]: Time elapsed: 13939 ms
-[19:28:55] [Server thread/INFO]: Done (65.147s)! For help, type "help"
-[19:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
-[19:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9937ms or 198 ticks behind
-[19:29:50] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
-[19:29:51] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:51560] logged in with entity id 731 at (100.30000001192093, 8.0, 40.30000001192093)
-[19:29:51] [Server thread/INFO]: ourfunfamily3 joined the game
-[19:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
-[19:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6210ms or 124 ticks behind
-[19:33:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1699, l='world', x=94.27, y=4.00, z=96.98]
-[19:33:47] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
-[19:33:47] [Server thread/INFO]: ourfunfamily3 left the game
-[19:37:51] [User Authenticator #2/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
-[19:37:51] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:51821] logged in with entity id 1844 at (100.30000001192093, 4.0, 47.23813899248019)
-[19:37:51] [Server thread/INFO]: ourfunfamily3 joined the game
-[19:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
-[19:38:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
-[19:38:20] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1989, l='world', x=150.19, y=4.00, z=46.40]
-[19:38:22] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2007, l='world', x=108.77, y=4.00, z=105.29]
-[19:39:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2430, l='world', x=65.73, y=4.00, z=87.84]
-[19:39:32] [User Authenticator #3/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
-[19:39:32] [Server thread/INFO]: ourfunfamily2[/192.168.1.160:54214] logged in with entity id 2468 at (92.09841703051116, 7.0, -8.69999998807907)
-[19:39:32] [Server thread/INFO]: ourfunfamily2 joined the game
-[19:40:30] [User Authenticator #4/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
-[19:40:31] [Server thread/INFO]: ourfunfamily[/192.168.1.130:56768] logged in with entity id 2966 at (101.11651778040981, 24.22879588892428, 16.23247023083229)
-[19:40:31] [Server thread/INFO]: ourfunfamily joined the game
-[19:41:15] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3204, l='world', x=135.22, y=4.00, z=102.82]
-[19:42:03] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/3556, l='world', x=108.07, y=4.00, z=106.86]
-[19:42:10] [Server thread/INFO]: ourfunfamily3 has made the advancement [The End?]
-[19:42:10] [Server thread/WARN]: ourfunfamily3 moved too quickly! -31.83970308559097,43.98466877484428,-66.44419753645776
-[19:42:14] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:42:14] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[19:42:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
-[19:42:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3747ms or 74 ticks behind
-[19:43:35] [Server thread/INFO]: [ourfunfamily: Killed 73 entities]
-[19:43:52] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4836, l='world', x=133.49, y=4.00, z=88.23]
-[19:43:54] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/4861, l='world', x=133.02, y=4.00, z=88.39]
-[19:43:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[19:44:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[19:44:31] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/5294, l='world', x=134.47, y=4.00, z=-66.67]
-[19:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4088ms or 81 ticks behind
-[19:44:59] [Server thread/INFO]: ourfunfamily3 has made the advancement [Cover Me With Diamonds]
-[19:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[19:45:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[19:45:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[19:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3580ms or 71 ticks behind
-[19:46:39] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
-[19:46:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[19:47:02] [Server thread/INFO]: [ourfunfamily: Killed 82 entities]
-[19:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10852ms or 217 ticks behind
-[19:47:10] [Server thread/INFO]: ourfunfamily3 has made the advancement [Take Aim]
-[19:47:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26173ms or 523 ticks behind
-[19:48:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9689ms or 193 ticks behind
-[19:48:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17962ms or 359 ticks behind
-[19:48:45] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/7253, l='world', x=134.80, y=4.00, z=87.35]
-[19:48:46] [Server thread/WARN]: ourfunfamily3 moved too quickly! -10.20127407105648,1.9291619953703787,-10.132914150327624
-[19:49:03] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
-[19:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13143ms or 262 ticks behind
-[19:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3144ms or 62 ticks behind
-[19:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:50:01] [Server thread/INFO]: [ourfunfamily: Killed 256 entities]
-[19:51:12] [Server thread/WARN]: ourfunfamily3 moved too quickly! -10.034007203481318,0.0,-0.7834794625422141
-[19:51:12] [Server thread/WARN]: ourfunfamily moved too quickly! -5.426302632998073,6.00000022825585,6.543948209870926
-[19:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[19:51:39] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
-[19:52:14] [Server thread/INFO]: [ourfunfamily: Gave 1 [Debug Stick] to ourfunfamily]
-[19:52:37] [Server thread/INFO]: ourfunfamily3 was killed by Ender Dragon using magic
-[19:52:51] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
-[19:53:04] [Server thread/INFO]: [ourfunfamily: The difficulty has been set to Peaceful]
-[19:55:22] [Server thread/INFO]: [ourfunfamily: Set own game mode to Survival Mode]
-[19:55:49] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
-[19:55:55] [Server thread/WARN]: Fetching packet for removed entity atx['Bone'/9069, l='world', x=-10.96, y=67.00, z=10.19]
-[19:55:55] [Server thread/WARN]: Fetching packet for removed entity atx['Arrow'/9068, l='world', x=-11.66, y=67.00, z=9.58]
-[19:56:14] [Server thread/WARN]: ourfunfamily3 moved too quickly! -9.560964792512351,0.0,3.53165074506893
-[19:56:14] [Server thread/WARN]: ourfunfamily moved too quickly! 5.106692046447705,8.624898783567975,0.6569112960710228
-[19:57:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32286ms or 645 ticks behind
-[19:57:05] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
-[19:57:05] [Server thread/INFO]: ourfunfamily3 left the game
-[19:57:05] [Server thread/INFO]: ourfunfamily2 lost connection: Disconnected
-[19:57:05] [Server thread/INFO]: ourfunfamily2 left the game
-[19:57:05] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
-[19:57:05] [Server thread/INFO]: ourfunfamily left the game
-[19:57:08] [User Authenticator #5/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
-[19:57:08] [User Authenticator #6/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
-[19:58:05] [Server Watchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
-[19:58:05] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
-[19:58:05] [Server Watchdog/ERROR]: This crash report has been saved to: /Users/bomeara/Documents/MyDocuments/GitClones/minecraftservers/mcvanilla_superflat_Sept2019/./crash-reports/crash-2019-09-12_19.58.05-server.txt
-[19:58:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@49bd586c[id=4fe4f51d-e8c9-45be-83f9-03d982505500,name=ourfunfamily2,properties={textures=[com.mojang.authlib.properties.Property@7df1b0df]},legacy=false] (/192.168.1.160:54297) lost connection: Disconnected
-[19:58:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@32205c0e[id=2e4e121d-c129-4f0a-b86a-283a9fa8d4cb,name=ourfunfamily3,properties={textures=[com.mojang.authlib.properties.Property@46909b3c]},legacy=false] (/127.0.0.1:52036) lost connection: Disconnected
-[19:58:06] [Server thread/INFO]: Stopping the server
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Stopping the server
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Unknown command
-[19:58:06] [Server thread/INFO]: <--[HERE]
-[19:58:06] [Server thread/INFO]: Stopping server
-[19:58:06] [Server thread/INFO]: Saving players
-[19:58:06] [Server thread/INFO]: Saving worlds
-[19:58:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:58:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:58:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:58:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:58:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:23:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:23:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:23:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:23:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:23:02] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:23:02] [Server thread/INFO]: Loading properties
+[18:23:02] [Server thread/INFO]: Default game type: CREATIVE
+[18:23:02] [Server thread/INFO]: Generating keypair
+[18:23:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:23:03] [Server thread/INFO]: Using default channel type
+[18:23:03] [Server thread/INFO]: Preparing level "world"
+[18:23:03] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:23:23] [Server thread/INFO]: Loaded 6 recipes
+[18:23:23] [Server thread/INFO]: Loaded 811 advancements
+[18:23:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:23:24] [Server thread/INFO]: Preparing spawn area: 0%
+[18:23:24] [Server thread/INFO]: Preparing spawn area: 0%
+[18:23:24] [Server thread/INFO]: Preparing spawn area: 0%
+[18:23:24] [Server thread/INFO]: Time elapsed: 1444 ms
+[18:23:24] [Server thread/INFO]: Done (21.333s)! For help, type "help"
+[18:41:34] [User Authenticator #1/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[18:41:34] [Server thread/INFO]: ourfunfamily[/192.168.1.130:64747] logged in with entity id 217 at (101.40281454550772, 10.5, 23.47840544289889)
+[18:41:34] [Server thread/INFO]: ourfunfamily joined the game
+[18:41:53] [Server thread/INFO]: [ourfunfamily: The difficulty has been set to Peaceful]
+[18:42:17] [Server thread/INFO]: [ourfunfamily: Killed 13 entities]
+[18:42:36] [Server thread/INFO]: [ourfunfamily: Gave 1 [Command Block] to ourfunfamily]
+[18:48:31] [Server thread/INFO]: [ourfunfamily: Set the weather to clear]
+[18:53:38] [Server thread/INFO]: [ourfunfamily: Set the weather to clear]
+[19:02:28] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[19:02:28] [Server thread/INFO]: ourfunfamily left the game
+[19:20:54] [User Authenticator #2/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[19:20:54] [Server thread/INFO]: ourfunfamily[/192.168.1.130:65486] logged in with entity id 412 at (33.760465017472185, 4.0, -28.084715964948348)
+[19:20:54] [Server thread/INFO]: ourfunfamily joined the game
+[19:24:19] [Server thread/INFO]: [ourfunfamily: Gave 1 [Command Block] to ourfunfamily]
+[19:36:53] [Server thread/INFO]: [ourfunfamily: Set own game mode to Survival Mode]
+[19:37:16] [Server thread/INFO]: [ourfunfamily: Applied effect Health Boost to ourfunfamily]
+[19:37:33] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[19:39:01] [Server thread/INFO]: ourfunfamily has made the advancement [Hot Stuff]
+[19:39:17] [Server thread/INFO]: [ourfunfamily: Gave 1 [Structure Void] to ourfunfamily]
+[19:44:36] [Server thread/INFO]: ourfunfamily has made the advancement [Ice Bucket Challenge]
+[19:49:22] [Server thread/INFO]: [ourfunfamily: Gave 1 [Player Head] to ourfunfamily]
+[19:49:49] [Server thread/INFO]: [ourfunfamily: Gave 1 [ourfunfamily's Head] to ourfunfamily]
+[19:52:47] [Server thread/INFO]: [ourfunfamily: Gave 1 [Player Head] to ourfunfamily]
+[19:53:13] [Server thread/INFO]: [ourfunfamily: Gave 1 [ourfunfamily3's Head] to ourfunfamily]
+[19:53:50] [Server thread/INFO]: [ourfunfamily: Gave 1 [ourfunfamily2's Head] to ourfunfamily]
+[20:01:22] [Server thread/INFO]: [ourfunfamily: Set own game mode to Spectator Mode]
+[20:02:49] [Server thread/INFO]: [ourfunfamily: Set own game mode to Creative Mode]
+[20:04:17] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[20:04:17] [Server thread/INFO]: ourfunfamily left the game
+[22:21:38] [Server thread/INFO]: Stopping the server
+[22:21:38] [Server thread/INFO]: Stopping server
+[22:21:38] [Server thread/INFO]: Saving players
+[22:21:38] [Server thread/INFO]: Saving worlds
+[22:21:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:21:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:21:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:21:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
