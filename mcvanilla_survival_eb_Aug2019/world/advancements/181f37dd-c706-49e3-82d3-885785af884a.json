@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2019-09-21 19:22:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wooden_fences": "2019-08-29 19:55:53 -0400"
@@ -890,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2019-09-21 19:22:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-08-29 20:06:36 -0400"
@@ -1407,6 +1419,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2019-09-21 19:22:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2019-08-29 20:01:29 -0400"
@@ -1635,6 +1653,7 @@
       "bread": "2019-08-29 20:03:28 -0400",
       "suspicious_stew": "2019-09-02 19:47:38 -0400",
       "melon_slice": "2019-08-29 20:23:03 -0400",
+      "cooked_rabbit": "2019-09-21 19:21:24 -0400",
       "cooked_chicken": "2019-08-31 13:25:22 -0400",
       "mushroom_stew": "2019-09-04 20:29:52 -0400",
       "carrot": "2019-08-31 12:01:52 -0400"

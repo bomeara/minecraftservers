@@ -1639,6 +1639,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2019-09-21 19:09:36 -0400",
       "minecraft:cow": "2019-08-31 12:42:39 -0400"
     },
     "done": false
@@ -1910,6 +1911,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-31 11:43:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2019-09-21 19:21:21 -0400"
     },
     "done": true
   },
