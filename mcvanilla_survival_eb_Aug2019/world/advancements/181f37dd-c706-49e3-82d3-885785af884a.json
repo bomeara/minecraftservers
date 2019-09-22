@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2019-09-22 08:06:15 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-08-29 19:58:35 -0400"
@@ -443,6 +449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2019-08-29 20:02:16 -0400"
@@ -557,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2019-08-29 20:10:24 -0400",
@@ -565,7 +583,8 @@
       "minecraft:slime": "2019-09-04 20:32:49 -0400",
       "minecraft:cave_spider": "2019-09-01 09:09:31 -0400",
       "minecraft:enderman": "2019-09-01 20:04:48 -0400",
-      "minecraft:zombie": "2019-08-29 20:13:56 -0400"
+      "minecraft:zombie": "2019-08-29 20:13:56 -0400",
+      "minecraft:drowned": "2019-09-22 07:46:45 -0400"
     },
     "done": false
   },
@@ -890,6 +909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2019-09-22 08:02:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2019-08-29 20:10:09 -0400"
@@ -1139,6 +1164,7 @@
       "minecraft:forest": "2019-08-29 20:02:58 -0400",
       "minecraft:desert_hills": "2019-08-29 20:15:46 -0400",
       "minecraft:desert": "2019-08-29 20:05:07 -0400",
+      "minecraft:warm_ocean": "2019-09-22 08:02:06 -0400",
       "minecraft:badlands": "2019-09-21 20:26:27 -0400",
       "minecraft:savanna_plateau": "2019-09-03 20:26:57 -0400",
       "minecraft:beach": "2019-08-31 11:21:37 -0400",
@@ -1626,6 +1652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-02 20:09:05 -0400"
@@ -1653,6 +1685,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2019-08-29 20:12:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
     },
     "done": true
   },
@@ -1922,6 +1960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2019-08-29 20:12:34 -0400"
@@ -2090,6 +2134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2019-08-31 12:50:07 -0400"
@@ -2105,6 +2155,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 20:09:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
     },
     "done": true
   },
@@ -2168,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-09-22 07:45:44 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_at_least_9_lapis": "2019-09-02 20:05:36 -0400"
@@ -2177,6 +2239,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2019-09-02 20:09:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2019-09-22 07:45:29 -0400"
     },
     "done": true
   },
@@ -2195,6 +2263,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
     },
     "done": true
   },
@@ -2279,6 +2353,12 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2019-08-29 20:15:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
     },
     "done": true
   },
@@ -2729,6 +2809,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2019-08-30 19:45:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2019-09-22 07:45:29 -0400"
     },
     "done": true
   },

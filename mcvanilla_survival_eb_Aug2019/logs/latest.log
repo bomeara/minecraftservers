@@ -1,145 +1,232 @@
-[19:58:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:58:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:58:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:58:09] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[19:58:09] [Server thread/INFO]: Loading properties
-[19:58:09] [Server thread/INFO]: Default game type: CREATIVE
-[19:58:09] [Server thread/INFO]: Generating keypair
-[19:58:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:58:09] [Server thread/INFO]: Using default channel type
-[19:58:10] [Server thread/INFO]: Preparing level "world"
-[19:58:11] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:58:24] [User Authenticator #1/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
-[19:58:35] [Server thread/INFO]: Loaded 6 recipes
-[19:58:36] [Server thread/INFO]: Loaded 811 advancements
-[19:58:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:40] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:41] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:41] [Server thread/INFO]: Preparing spawn area: 0%
-[19:58:41] [Server thread/INFO]: Preparing spawn area: 49%
-[19:58:46] [Server thread/INFO]: Time elapsed: 10469 ms
-[19:58:46] [Server thread/INFO]: Done (36.068s)! For help, type "help"
-[19:58:48] [Server thread/INFO]: ourfunfamily[/192.168.1.130:53578] logged in with entity id 222 at (-193.8252447223729, 65.5, 125.33679408564188)
-[19:58:48] [Server thread/INFO]: ourfunfamily joined the game
-[19:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[19:59:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7384ms or 147 ticks behind
-[19:59:39] [User Authenticator #2/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
-[19:59:39] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:61047] logged in with entity id 413 at (-134.19905997053243, 69.5625, 87.06184462800535)
-[19:59:40] [Server thread/INFO]: ourfunfamily3 joined the game
-[19:59:42] [User Authenticator #3/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
-[19:59:42] [Server thread/INFO]: ourfunfamily2[/192.168.1.160:51502] logged in with entity id 447 at (-132.4391447334688, 69.0, 64.52321791524349)
-[19:59:42] [Server thread/INFO]: ourfunfamily2 joined the game
-[20:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3462ms or 69 ticks behind
-[20:05:03] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily2]
-[20:05:03] [Server thread/WARN]: ourfunfamily3 moved too quickly! 104.62445036951101,3.5,-8.526494161224548
-[20:09:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
-[20:11:25] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily2]
-[20:11:25] [Server thread/WARN]: ourfunfamily3 moved too quickly! -34.44010375003597,-1.0,-17.721443740702966
-[20:11:25] [Server thread/WARN]: ourfunfamily3 moved too quickly! -34.44010375003597,-1.0,-17.721443740702966
-[20:11:56] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
-[20:14:38] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily2]
-[20:14:38] [Server thread/WARN]: ourfunfamily3 moved too quickly! -275.5089084413437,4.5625,-16.133727340857007
-[20:16:00] [Server thread/INFO]: <ourfunfamily> goodnight
-[20:16:13] [Server thread/INFO]: <ourfunfamily3> good morning
-[20:19:06] [Server thread/WARN]: ourfunfamily moved too quickly! -2.764840947212747,0.7967356006687112,9.684050501428828
-[20:19:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4358ms or 87 ticks behind
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -10.287285002244857,0.0,1.5259961657729946
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -10.682949875972213,0.0,1.5846883357777415
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -11.078614751143164,0.0,1.6433805059966176
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -11.474279627613441,0.0,1.7020726764082497
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -11.869944505253045,0.0,1.760764846993311
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -12.265609383945105,0.0,1.8194570177345213
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -12.661274263584346,0.0,1.8781491886161916
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -13.056939144076011,0.0,1.9368413596243386
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -13.45260402533492,0.0,1.995533530746286
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -13.848268907284307,0.0,2.0542257019706653
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -14.243933789855134,0.0,2.1129178732872447
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -14.639598672985272,0.0,2.1716100446867586
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -15.035263556618787,0.0,2.2303022161609647
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -15.430928440705316,0.0,2.2889943877023597
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -15.826593325199582,0.0,2.347686559304236
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -16.2222582100608,0.0,2.4063787309605686
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -16.61792309525228,0.0,2.4650709026659
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -17.013587980740994,0.0,2.5237630744152852
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -17.409252866497212,0.0,2.582455246204347
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -17.80491775249419,0.0,2.6411474180291634
-[20:24:08] [Server thread/WARN]: Boat (vehicle of ourfunfamily) moved too quickly! -18.200582638707857,0.0,2.6998395898860963
-[20:24:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
-[20:27:11] [Server thread/INFO]: [ourfunfamily3: Set the time to 1000]
-[20:29:12] [Server thread/WARN]: ourfunfamily3 moved too quickly! 9.98928513368594,-0.7684762024129839,1.552144769687743
-[20:29:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4397ms or 87 ticks behind
-[20:29:17] [Server thread/INFO]: ourfunfamily fell from a high place
-[20:33:12] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
-[20:33:12] [Server thread/INFO]: ourfunfamily left the game
-[20:37:00] [Server thread/INFO]: <ourfunfamily3> bedtime
-[20:47:42] [Server thread/INFO]: <ourfunfamily3> sleep
-[20:47:45] [Server thread/INFO]: <ourfunfamily3> sleep
-[20:47:46] [Server thread/INFO]: <ourfunfamily2> night
-[20:58:56] [Server thread/INFO]: [ourfunfamily2: Teleported ourfunfamily2 to ourfunfamily3]
-[21:21:07] [Server thread/INFO]: <ourfunfamily2> Fe Fi Fo Fum Farkle
-[21:23:48] [Server thread/INFO]: <ourfunfamily2> Jessie
-[21:24:02] [Server thread/INFO]: <ourfunfamily2> Jessie Paege
-[21:24:42] [Server thread/INFO]: <ourfunfamily2> Fe, Fi, Fo, Fum, Farkle, Jessie Paege, Briella
-[21:27:31] [Server thread/INFO]: [ourfunfamily3: Set the time to 1000]
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.233776557804276,0.0,-7.4719908157308055
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.511976730174354,0.0,-7.759400112152889
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.7901764208888835,0.0,-8.04680995658839
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.068375678113455,0.0,-8.33422029423582
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.34657454519703,0.0,-8.621631075774076
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.624773061153746,0.0,-8.909042256814018
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.902971261096297,0.0,-9.196453797405411
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -9.1811691766261,0.0,-9.4838656615932
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -9.459366836184472,0.0,-9.771277817017676
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -9.737564265368519,0.0,-10.058690234555229
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -10.015761487215684,0.0,-10.346102887994448
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -10.293958522459661,0.0,-10.6335157537452
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -10.57215538976078,0.0,-10.920928810576356
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -10.850352105913316,0.0,-11.208342039379886
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -11.128548686032161,0.0,-11.495755422958496
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -11.406745143720684,0.0,-11.783168945834746
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -11.684941491221878,0.0,-12.070582594078815
-[21:29:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.233129310677668,0.0,-7.472727234237709
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.511325012272721,0.0,-7.760141617374529
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.789520679289808,0.0,-8.047556039853134
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.067716315186772,0.0,-8.334970497739278
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.345911923075619,0.0,-8.622384987492183
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.624107505757138,0.0,-8.90979950592532
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -8.902303065752108,0.0,-9.197214050170487
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -9.180498605329149,0.0,-9.484628617646536
-[21:29:15] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -7.233129043901897,0.0,-7.472727537767241
-[21:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[21:32:29] [Server thread/INFO]: [ourfunfamily3: Set the time to 1000]
-[21:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4170ms or 83 ticks behind
-[21:39:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2671ms or 53 ticks behind
-[21:41:43] [Server thread/INFO]: ourfunfamily2 lost connection: Disconnected
-[21:41:43] [Server thread/INFO]: ourfunfamily2 left the game
-[21:41:58] [Server thread/INFO]: [ourfunfamily3: Set the time to 1000]
-[21:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
-[21:51:46] [Server thread/INFO]: [ourfunfamily3: Set the time to 1000]
-[21:54:30] [Server thread/WARN]: ourfunfamily3 moved too quickly! -4.482376230772843,0.0,8.999812550003298
-[21:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3448ms or 68 ticks behind
-[21:58:14] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
-[21:58:14] [Server thread/INFO]: ourfunfamily3 left the game
-[21:58:23] [Server thread/INFO]: Stopping the server
-[21:58:24] [Server thread/INFO]: Stopping server
-[21:58:24] [Server thread/INFO]: Saving players
-[21:58:24] [Server thread/INFO]: Saving worlds
-[21:58:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:58:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:58:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:58:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:58:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:58:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:58:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:58:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:58:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:35:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:35:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:35:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:35:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:35:09] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[07:35:09] [Server thread/INFO]: Loading properties
+[07:35:09] [Server thread/INFO]: Default game type: CREATIVE
+[07:35:09] [Server thread/INFO]: Generating keypair
+[07:35:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:35:09] [Server thread/INFO]: Using default channel type
+[07:35:09] [Server thread/INFO]: Preparing level "world"
+[07:35:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:35:25] [Server thread/INFO]: Loaded 6 recipes
+[07:35:25] [Server thread/INFO]: Loaded 811 advancements
+[07:35:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:35:26] [Server thread/INFO]: Preparing spawn area: 0%
+[07:35:26] [Server thread/INFO]: Preparing spawn area: 0%
+[07:35:26] [Server thread/INFO]: Preparing spawn area: 0%
+[07:35:27] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[07:35:27] [Server thread/INFO]: Time elapsed: 2430 ms
+[07:35:27] [Server thread/INFO]: Done (18.160s)! For help, type "help"
+[07:37:03] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[07:37:03] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:65228] logged in with entity id 136 at (1323.3485433268793, 63.0, 1433.0103461689084)
+[07:37:03] [Server thread/INFO]: ourfunfamily3 joined the game
+[07:37:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[07:37:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4678ms or 93 ticks behind
+[07:37:41] [User Authenticator #2/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
+[07:37:41] [Server thread/INFO]: ourfunfamily2[/192.168.1.160:52105] logged in with entity id 467 at (-204.51443158946208, 65.0, 85.26866229489131)
+[07:37:41] [Server thread/INFO]: ourfunfamily2 joined the game
+[07:38:14] [User Authenticator #3/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[07:38:14] [Server thread/INFO]: ourfunfamily[/192.168.1.130:58103] logged in with entity id 695 at (-193.50876847676545, 65.0, 126.46747935894713)
+[07:38:14] [Server thread/INFO]: ourfunfamily joined the game
+[07:38:47] [Server thread/INFO]: [ourfunfamily: Set the time to 6000]
+[07:40:38] [Server thread/WARN]: ourfunfamily3 moved too quickly! -3.1077714349557937,-1.0,-9.518181065241151
+[07:40:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3629ms or 72 ticks behind
+[07:42:48] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[07:42:48] [Server thread/WARN]: ourfunfamily moved too quickly! 1466.2182819024608,-9.5625,1301.9810474579451
+[07:42:48] [Server thread/WARN]: ourfunfamily moved too quickly! 1466.2182819024608,-9.5625,1301.9810474579451
+[07:43:01] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily2]
+[07:43:01] [Server thread/WARN]: ourfunfamily moved too quickly! -1538.1520625128605,5.252203340253729,-1276.0741630348434
+[07:44:39] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[07:45:29] [Server thread/INFO]: ourfunfamily has made the advancement [Diamonds!]
+[07:45:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[07:46:24] [Server thread/INFO]: <ourfunfamily2> Fe, Fi, Fo, Fum, Farkle, Jessie Paege, Briella
+[07:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[07:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
+[07:48:23] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[07:48:23] [Server thread/WARN]: ourfunfamily3 moved too quickly! 14.240865498336461,3.0,68.45700093748133
+[07:50:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.349656530560196,0.0,1.019361862089454
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.747725409220948,0.0,1.058568596360601
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.145794400966906,0.0,1.097775341769875
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.543863494489642,0.0,1.1369820972033722
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.941932679611227,0.0,1.176188861658602
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 12.34000194717214,0.0,1.2153956342333458
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 12.738071288928268,0.0,1.2546024141158796
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 13.13614069745995,0.0,1.2938092005751969
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 13.534210166089906,0.0,1.333015992953733
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 13.932279688808194,0.0,1.3722227906596345
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 14.330349260205821,0.0,1.4114295931601646
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 14.728418875414945,0.0,1.4506363999757923
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.349808494149329,0.0,1.0193768293386256
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.747878422478607,0.0,1.0585836669940818
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.145948358926262,0.0,1.0977905054492112
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.544018302680342,0.0,1.1369973446239783
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.942088253010297,0.0,1.1762041844463056
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 12.340158209258561,0.0,1.215411024851619
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 12.738228170833281,0.0,1.2546178657814835
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 13.136298137201948,0.0,1.293824707183603
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 13.53436810788503,0.0,1.333031549010684
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 13.932438082450972,0.0,1.3722383912202076
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 14.330508060511647,0.0,1.4114452337737475
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 14.728578041717583,0.0,1.4506520766371978
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 15.12664802575432,0.0,1.489858919779408
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 15.524718012338553,0.0,1.529065763172639
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 15.922788001215622,0.0,1.568272606791652
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 16.320857992156334,0.0,1.607479450613937
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 16.718927984954234,0.0,1.6466862946190304
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 17.11699797942356,0.0,1.6858931387887424
+[07:50:53] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 17.515067975397415,0.0,1.725099983106702
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.349819403576475,0.0,1.0193779038340836
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.747889407261255,0.0,1.0585847489114713
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.145959411528793,0.0,1.0977915940463845
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.544029416320882,0.0,1.1369984392329116
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.942099421584999,0.0,1.1762052844658228
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.349819408223311,0.0,1.0193779042915594
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 10.747889416090175,0.0,1.0585847497809482
+[07:50:54] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! 11.145959424121656,0.0,1.0977915952864805
+[07:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10369ms or 207 ticks behind
+[07:51:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[07:52:41] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily2]
+[07:56:03] [Server thread/WARN]: ourfunfamily2 moved too quickly! -2.2636341809486,-0.2987031463477763,9.90815450531737
+[07:56:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[08:01:06] [Server thread/WARN]: ourfunfamily moved too quickly! -9.084904403712045,0.0,-4.8024078417741265
+[08:01:06] [Server thread/WARN]: ourfunfamily3 moved too quickly! -1.5260080087934966,2.0,9.715981411541861
+[08:01:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[08:02:06] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[08:02:06] [Server thread/WARN]: ourfunfamily moved too quickly! 1978.8712994896027,-5.926735192125761,1388.7675529389885
+[08:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[08:03:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[08:03:47] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
+[08:04:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[08:04:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10969ms or 219 ticks behind
+[08:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4693ms or 93 ticks behind
+[08:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7682ms or 153 ticks behind
+[08:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2239ms or 44 ticks behind
+[08:06:49] [Server thread/WARN]: ourfunfamily2 moved too quickly! -6.021917146192209,0.0,-8.274305899943087
+[08:06:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6416ms or 128 ticks behind
+[08:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[08:07:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3247ms or 64 ticks behind
+[08:07:46] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[08:07:59] [Server thread/INFO]: <ourfunfamily2> sleep
+[08:08:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[08:08:20] [Server thread/INFO]: ourfunfamily was impaled by Drowned
+[08:08:21] [Server thread/INFO]: <ourfunfamily2> stop being mean
+[08:08:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7822ms or 156 ticks behind
+[08:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
+[08:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4571ms or 91 ticks behind
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.361268883507819,0.0,-10.128393257823689
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.452086913891435,0.0,-10.517946845729398
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.54290494419638,0.0,-10.90750043365847
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.633722974430384,0.0,-11.297054021608574
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.7245410046007237,0.0,-11.68660760957755
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.8153590347133104,0.0,-12.076161197563579
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.9061770647745107,0.0,-12.465714785564899
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.9969950947893267,0.0,-12.855268373579975
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.087813124761851,0.0,-13.2448219616075
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.1786311546970865,0.0,-13.634375549646165
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.2694491845982157,0.0,-14.023929137694893
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.3602672144688768,0.0,-14.413482725752658
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.451085244312253,0.0,-14.803036313818552
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.5419032741306182,0.0,-15.192589901891779
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.632721303926701,0.0,-15.5821434899716
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.7235393337027745,0.0,-15.97169707805736
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.814357363461113,0.0,-16.361250666148464
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.9051753932030806,0.0,-16.750804254244372
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.9959934229304963,0.0,-17.1403578423446
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.086811452644724,0.0,-17.52991143044872
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.177629482347129,0.0,-17.919465018556338
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.268447512039074,0.0,-18.30901860666711
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.35926554172147,0.0,-18.698572194780724
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.450083571395226,0.0,-19.088125782896896
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.54090160106125,0.0,-19.47767937101537
+[08:12:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4453ms or 89 ticks behind
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.361268777683108,0.0,-10.128393289192019
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.452086807335945,0.0,-10.517946877314415
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.5429048369828706,0.0,-10.907500465438488
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.633722866624794,0.0,-11.297054053564068
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.7245408962621696,0.0,-11.686607641691012
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.8153589258954526,0.0,-12.076161229819178
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.9061769555250976,0.0,-12.465714817948424
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -2.9969949851511046,0.0,-12.855268406078665
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.087813014774383,0.0,-13.244821994209815
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.1786310443949333,0.0,-13.634375582341761
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.269449074012755,0.0,-14.023929170474418
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.3602671036287575,0.0,-14.413482758607728
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.4510851332424863,0.0,-14.803036346741635
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.541903162854396,0.0,-15.192589934876054
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.632721192464942,0.0,-15.582143523010956
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.7235392220741232,0.0,-15.971697111146284
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.8143572516819404,0.0,-16.36125069928198
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.9051752812883933,0.0,-16.75080428741802
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -3.9959933108939367,0.0,-17.140357875554372
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.086811340498571,0.0,-17.529911463691008
+[08:12:16] [Server thread/WARN]: Boat (vehicle of ourfunfamily3) moved too quickly! -4.177629370102295,0.0,-17.9194650518279
+[08:16:08] [Server thread/WARN]: ourfunfamily2 moved wrongly!
+[08:16:31] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily2]
+[08:16:31] [Server thread/WARN]: ourfunfamily3 moved too quickly! -2718.825059057338,-21.0,248.01473739881283
+[08:19:18] [Server thread/INFO]: ourfunfamily2 lost connection: Disconnected
+[08:19:18] [Server thread/INFO]: ourfunfamily2 left the game
+[08:19:40] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[08:19:40] [Server thread/INFO]: ourfunfamily3 left the game
+[08:21:00] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[08:21:00] [Server thread/INFO]: ourfunfamily left the game
+[09:00:35] [User Authenticator #4/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[09:00:35] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:50594] logged in with entity id 21348 at (-133.70000002533197, 69.0000002, 88.29999997466803)
+[09:00:35] [Server thread/INFO]: ourfunfamily3 joined the game
+[09:01:48] [User Authenticator #5/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
+[09:01:49] [Server thread/INFO]: ourfunfamily2[/192.168.1.160:52510] logged in with entity id 21573 at (-201.69411777043237, 65.0, 79.11150740680193)
+[09:01:49] [Server thread/INFO]: ourfunfamily2 joined the game
+[09:03:23] [User Authenticator #6/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[09:03:24] [Server thread/INFO]: ourfunfamily[/192.168.1.130:62618] logged in with entity id 22086 at (-221.86374253373648, 69.0, 104.37437700109486)
+[09:03:24] [Server thread/INFO]: ourfunfamily joined the game
+[09:03:24] [Server thread/WARN]: Fetching packet for removed entity atx['Wheat Seeds'/22077, l='world', x=-168.26, y=68.94, z=100.40]
+[09:05:33] [Server thread/INFO]: ourfunfamily fell from a high place
+[09:05:55] [Server thread/INFO]: ourfunfamily fell from a high place
+[09:10:29] [Server thread/INFO]: <ourfunfamily2> come to bed
+[09:10:33] [Server thread/INFO]: <ourfunfamily2> sleep now
+[09:21:14] [Server thread/INFO]: [ourfunfamily3: Set the time to 1000]
+[09:28:46] [Server thread/INFO]: <ourfunfamily2> Fe
+[09:28:59] [Server thread/INFO]: <ourfunfamily2> Fi
+[09:29:57] [Server thread/INFO]: <ourfunfamily2> Fo
+[09:31:35] [Server thread/INFO]: <ourfunfamily2> Fum
+[09:31:55] [Server thread/INFO]: <ourfunfamily2> Farkle
+[09:33:20] [Server thread/INFO]: <ourfunfamily2> Jessie Paege
+[09:34:28] [Server thread/INFO]: <ourfunfamily2> Briella
+[09:36:12] [Server thread/INFO]: [ourfunfamily: Gave 5 experience levels to ourfunfamily2]
+[09:36:38] [Server thread/INFO]: [ourfunfamily2: Gave 10 [Name Tag] to ourfunfamily2]
+[09:36:50] [Server thread/INFO]: [ourfunfamily: Gave 1 experience points to ourfunfamily]
+[09:38:28] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily2]
+[09:38:28] [Server thread/WARN]: ourfunfamily3 moved too quickly! -50.28325834486128,-4.0,-5.807992116325934
+[09:39:38] [Server thread/INFO]: ourfunfamily2 lost connection: Disconnected
+[09:39:38] [Server thread/INFO]: ourfunfamily2 left the game
+[09:41:44] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[09:42:21] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[09:42:21] [Server thread/INFO]: ourfunfamily3 left the game
+[09:42:32] [Server thread/INFO]: [Server] stopping soon
+[09:42:47] [Server thread/INFO]: [Server] remove 64 cobblestone from ourfunfamily
+[09:43:01] [Server thread/INFO]: [Server] sudo remove 64 cobblestone from ourfunfamily
+[09:43:15] [Server thread/INFO]: [Server] tp wither ourfunfamily
+[09:43:24] [Server thread/INFO]: [Server] spawn wither
+[09:43:35] [Server thread/INFO]: [Server] /spawn wither ourfunfamily
+[09:43:54] [Server thread/INFO]: [Server] I ain't playing. Server stopping soon
+[09:44:16] [Server thread/INFO]: Unknown item 'minecraft:'
+[09:44:16] [Server thread/INFO]: ...ve carrot @p<--[HERE]
+[09:44:56] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[09:44:56] [Server thread/INFO]: ourfunfamily left the game
+[09:45:06] [Server thread/INFO]: Stopping the server
+[09:45:06] [Server thread/INFO]: Stopping server
+[09:45:06] [Server thread/INFO]: Saving players
+[09:45:06] [Server thread/INFO]: Saving worlds
+[09:45:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:45:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:45:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:45:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:45:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:45:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:45:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:45:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:45:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
