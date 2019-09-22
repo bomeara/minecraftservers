@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-21 20:13:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2019-08-29 20:11:06 -0400"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2019-09-21 20:13:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2019-08-29 19:57:25 -0400"
@@ -200,6 +212,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2019-08-29 20:17:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2019-09-21 20:52:48 -0400"
     },
     "done": true
   },
@@ -389,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-09-21 21:57:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2019-08-29 20:17:24 -0400"
@@ -424,6 +448,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2019-08-29 19:56:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2019-09-21 21:36:53 -0400"
     },
     "done": true
   },
@@ -685,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2019-09-21 20:12:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2019-08-30 19:50:14 -0400"
@@ -739,6 +775,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2019-08-30 19:46:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2019-09-21 20:12:55 -0400"
     },
     "done": true
   },
@@ -823,6 +865,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2019-09-01 08:54:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-09-21 21:57:06 -0400"
     },
     "done": true
   },
@@ -1125,6 +1173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2019-09-21 20:52:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2019-08-31 12:22:32 -0400"
@@ -1147,6 +1201,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 18:51:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2019-09-21 21:36:53 -0400"
     },
     "done": true
   },
@@ -1408,6 +1468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-09-21 21:57:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-30 19:51:36 -0400"
@@ -1483,6 +1549,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2019-08-31 12:53:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-21 20:13:23 -0400"
     },
     "done": true
   },
@@ -1738,6 +1810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-09-21 21:57:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-30 19:53:15 -0400"
@@ -1831,16 +1909,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-09-21 21:38:57 -0400",
       "minecraft:forest": "2019-08-29 20:13:00 -0400",
       "minecraft:badlands_plateau": "2019-09-12 20:25:47 -0400",
       "minecraft:desert_hills": "2019-09-01 11:53:47 -0400",
+      "minecraft:deep_cold_ocean": "2019-09-21 21:36:07 -0400",
       "minecraft:desert": "2019-09-01 09:51:48 -0400",
       "minecraft:birch_forest": "2019-09-04 20:31:33 -0400",
+      "minecraft:warm_ocean": "2019-09-21 21:55:25 -0400",
       "minecraft:badlands": "2019-09-12 20:24:54 -0400",
       "minecraft:savanna_plateau": "2019-09-01 12:07:33 -0400",
       "minecraft:beach": "2019-09-01 11:59:26 -0400",
       "minecraft:river": "2019-08-31 11:43:57 -0400",
       "minecraft:lukewarm_ocean": "2019-09-01 12:08:17 -0400",
+      "minecraft:wooded_hills": "2019-09-21 21:07:08 -0400",
       "minecraft:stone_shore": "2019-09-04 20:31:19 -0400",
       "minecraft:wooded_badlands_plateau": "2019-09-12 20:37:40 -0400",
       "minecraft:savanna": "2019-09-01 11:57:17 -0400",
@@ -1944,9 +2026,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2019-09-21 20:13:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2019-08-30 19:51:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2019-09-21 20:12:56 -0400"
     },
     "done": true
   },
@@ -2106,6 +2200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-21 20:13:23 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2019-09-01 09:32:39 -0400"
@@ -2175,6 +2275,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2019-08-29 20:11:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2019-09-21 20:52:48 -0400"
     },
     "done": true
   },

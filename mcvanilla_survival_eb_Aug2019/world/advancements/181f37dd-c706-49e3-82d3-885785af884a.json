@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 20:09:05 -0400"
@@ -668,6 +674,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2019-09-01 09:51:54 -0400"
@@ -770,6 +782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2019-08-29 20:04:22 -0400"
@@ -779,6 +797,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-08-29 20:15:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },
@@ -899,6 +923,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2019-09-21 19:22:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },
@@ -1040,6 +1070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-31 11:35:45 -0400"
@@ -1058,6 +1094,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2019-08-29 20:10:24 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },
@@ -1093,14 +1135,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2019-09-21 20:17:23 -0400",
       "minecraft:forest": "2019-08-29 20:02:58 -0400",
       "minecraft:desert_hills": "2019-08-29 20:15:46 -0400",
       "minecraft:desert": "2019-08-29 20:05:07 -0400",
+      "minecraft:badlands": "2019-09-21 20:26:27 -0400",
       "minecraft:savanna_plateau": "2019-09-03 20:26:57 -0400",
       "minecraft:beach": "2019-08-31 11:21:37 -0400",
       "minecraft:river": "2019-08-29 20:21:01 -0400",
       "minecraft:lukewarm_ocean": "2019-09-03 20:28:41 -0400",
       "minecraft:wooded_hills": "2019-09-01 11:48:51 -0400",
+      "minecraft:wooded_badlands_plateau": "2019-09-21 20:26:34 -0400",
       "minecraft:swamp": "2019-09-04 20:26:03 -0400",
       "minecraft:savanna": "2019-08-29 20:21:35 -0400",
       "minecraft:plains": "2019-08-29 19:52:22 -0400"
@@ -1290,6 +1335,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-08-29 20:05:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-21 20:11:05 -0400"
     },
     "done": true
   },
@@ -1491,6 +1542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2019-08-29 20:01:43 -0400"
@@ -1641,6 +1698,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2019-09-01 11:56:54 -0400",
@@ -1653,6 +1722,7 @@
       "bread": "2019-08-29 20:03:28 -0400",
       "suspicious_stew": "2019-09-02 19:47:38 -0400",
       "melon_slice": "2019-08-29 20:23:03 -0400",
+      "beetroot": "2019-09-21 20:07:59 -0400",
       "cooked_rabbit": "2019-09-21 19:21:24 -0400",
       "cooked_chicken": "2019-08-31 13:25:22 -0400",
       "mushroom_stew": "2019-09-04 20:29:52 -0400",
@@ -1699,6 +1769,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2019-08-29 20:05:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
     },
     "done": true
   },
@@ -1759,6 +1835,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-08-29 20:06:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },
@@ -1930,6 +2012,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-31 11:35:45 -0400"
@@ -2026,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2019-08-31 11:55:55 -0400"
@@ -2092,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-08-29 20:12:05 -0400"
@@ -2125,6 +2231,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2019-09-02 20:18:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },
@@ -2242,6 +2354,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-21 20:11:05 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-08-29 20:12:34 -0400"
@@ -2272,9 +2396,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-08-31 12:03:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },
@@ -2530,9 +2666,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2019-09-21 20:22:16 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-09-02 20:05:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2019-09-21 20:11:13 -0400"
     },
     "done": true
   },

@@ -959,6 +959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2019-09-21 20:24:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2019-09-01 08:38:50 -0400"
@@ -1146,6 +1152,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2019-09-12 20:04:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-21 21:13:38 -0400"
     },
     "done": true
   },
@@ -1458,8 +1470,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2019-08-31 11:23:47 -0400",
+      "bread": "2019-09-21 21:15:17 -0400",
       "suspicious_stew": "2019-09-02 19:44:18 -0400",
-      "mushroom_stew": "2019-09-12 20:36:44 -0400"
+      "mushroom_stew": "2019-09-12 20:36:44 -0400",
+      "carrot": "2019-09-21 21:01:09 -0400"
     },
     "done": false
   },
@@ -1640,7 +1654,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2019-09-21 19:09:36 -0400",
-      "minecraft:cow": "2019-08-31 12:42:39 -0400"
+      "minecraft:cow": "2019-08-31 12:42:39 -0400",
+      "minecraft:horse": "2019-09-21 20:18:21 -0400"
     },
     "done": false
   },
@@ -1872,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-09-21 20:24:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2019-09-02 20:14:14 -0400"
@@ -2076,6 +2097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2019-09-21 21:13:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2019-09-01 08:38:50 -0400"
@@ -2136,6 +2163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2019-09-21 20:24:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2019-08-30 19:57:34 -0400"
@@ -2175,6 +2208,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-09-02 20:16:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2019-09-21 20:24:02 -0400"
     },
     "done": true
   },
