@@ -13,4 +13,4 @@ You might want to copy whitelist.json to ops.json
 
 ## Update Aug 2019
 
-Using bare metal servers turns out to have less lag. For those, I'm using this repo to store the save files as well.
+Using bare metal servers turns out to have less lag. For those, I'm using this repo to store the save files as well. For those, ./script.sh to start
