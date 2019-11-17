@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2019-10-13 17:00:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-09-08 10:39:05 -0400"
@@ -323,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2019-10-13 16:59:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2019-09-08 20:12:53 -0400"
@@ -337,6 +349,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rabbit": "2019-10-13 17:08:26 -0400",
       "enchanted_golden_apple": "2019-09-12 19:51:42 -0400"
     },
     "done": false
@@ -356,6 +369,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2019-09-08 20:12:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2019-10-13 17:11:50 -0400"
     },
     "done": true
   },
@@ -494,6 +513,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2019-09-08 20:16:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2019-10-13 16:59:25 -0400"
     },
     "done": true
   },
@@ -644,6 +669,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2019-09-08 20:12:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2019-10-13 16:59:25 -0400"
     },
     "done": true
   },
@@ -823,7 +854,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:blaze": "2019-09-08 17:54:02 -0400"
+      "minecraft:blaze": "2019-09-08 17:54:02 -0400",
+      "minecraft:slime": "2019-10-13 16:51:22 -0400"
     },
     "done": false
   },

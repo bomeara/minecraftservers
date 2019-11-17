@@ -1,56 +1,49 @@
-[15:38:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:38:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:38:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:38:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:38:32] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[15:38:32] [Server thread/INFO]: Loading properties
-[15:38:32] [Server thread/INFO]: Default game type: CREATIVE
-[15:38:32] [Server thread/INFO]: Generating keypair
-[15:38:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:38:32] [Server thread/INFO]: Using default channel type
-[15:38:32] [Server thread/INFO]: Preparing level "world"
-[15:38:33] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:38:47] [Server thread/INFO]: Loaded 6 recipes
-[15:38:47] [Server thread/INFO]: Loaded 811 advancements
-[15:38:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:38:48] [Server thread/INFO]: Preparing spawn area: 0%
-[15:38:48] [Server thread/INFO]: Preparing spawn area: 0%
-[15:38:48] [Server thread/INFO]: Preparing spawn area: 26%
-[15:38:48] [Server thread/INFO]: Time elapsed: 1325 ms
-[15:38:48] [Server thread/INFO]: Done (16.032s)! For help, type "help"
-[16:17:50] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
-[16:17:51] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:53220] logged in with entity id 208 at (-54.34815567828009, 85.9874887178109, 167.4872854460545)
-[16:17:51] [Server thread/INFO]: ourfunfamily3 joined the game
-[16:18:12] [Server thread/INFO]: ourfunfamily3 fell out of the world
-[16:18:12] [Server thread/INFO]: [ourfunfamily3: Killed ourfunfamily3]
-[16:19:44] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
-[16:20:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/818, l='world', x=107.19, y=4.00, z=-17.96]
-[16:20:41] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/826, l='world', x=106.98, y=4.00, z=-17.18]
-[16:20:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/868, l='world', x=109.96, y=4.00, z=-17.83]
-[16:21:11] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/947, l='world', x=136.04, y=4.00, z=86.15]
-[16:23:30] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1461, l='world', x=119.02, y=4.00, z=-19.17]
-[16:24:05] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1601, l='world', x=113.90, y=4.00, z=-22.84]
-[16:24:25] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1661, l='world', x=152.63, y=4.00, z=45.47]
-[16:24:49] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1729, l='world', x=159.35, y=4.00, z=47.55]
-[16:24:51] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1737, l='world', x=159.21, y=4.12, z=45.19]
-[16:25:39] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/1955, l='world', x=134.15, y=4.12, z=76.80]
-[16:28:24] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2455, l='world', x=156.99, y=4.00, z=48.65]
-[16:29:46] [Server thread/INFO]: [ourfunfamily3: Applied effect Regeneration to ourfunfamily3]
-[16:31:59] [Server thread/INFO]: [ourfunfamily3: Gave 16 [Ender Pearl] to ourfunfamily3]
-[16:33:36] [Server thread/INFO]: [ourfunfamily3: Applied effect Health Boost to ourfunfamily3]
-[16:33:54] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
-[16:36:10] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
-[16:36:10] [Server thread/INFO]: ourfunfamily3 left the game
-[16:41:45] [Server thread/INFO]: Stopping the server
-[16:41:45] [Server thread/INFO]: Stopping server
-[16:41:45] [Server thread/INFO]: Saving players
-[16:41:45] [Server thread/INFO]: Saving worlds
-[16:41:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[16:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:41:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[16:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:41:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[16:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:41:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:23:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:23:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:23:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:23:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:23:04] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:23:04] [Server thread/INFO]: Loading properties
+[18:23:04] [Server thread/INFO]: Default game type: CREATIVE
+[18:23:04] [Server thread/INFO]: Generating keypair
+[18:23:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:23:05] [Server thread/INFO]: Using default channel type
+[18:23:05] [Server thread/INFO]: Preparing level "world"
+[18:23:06] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:23:19] [Server thread/INFO]: Loaded 6 recipes
+[18:23:19] [Server thread/INFO]: Loaded 811 advancements
+[18:23:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[18:23:20] [Server thread/INFO]: Preparing spawn area: 4%
+[18:23:21] [Server thread/INFO]: Time elapsed: 1756 ms
+[18:23:21] [Server thread/INFO]: Done (15.816s)! For help, type "help"
+[18:28:38] [User Authenticator #1/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[18:28:39] [Server thread/INFO]: ourfunfamily[/192.168.1.130:57369] logged in with entity id 296 at (98.45770550623557, 45.0, 42.39204625641593)
+[18:28:39] [Server thread/INFO]: ourfunfamily joined the game
+[18:31:33] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to 70.5, 4.0, 21.5]
+[18:48:28] [Server thread/WARN]: Fetching packet for removed entity atx['Bamboo'/2235, l='world', x=67.08, y=12.00, z=67.87]
+[18:52:58] [Server thread/INFO]: [ourfunfamily: Summoned new Armor Stand]
+[18:53:45] [Server thread/INFO]: [ourfunfamily: Replaced a slot on Armor Stand with [Glass]]
+[18:55:06] [Server thread/INFO]: [ourfunfamily: Replaced a slot on Armor Stand with [Red Stained Glass]]
+[18:56:21] [Server thread/INFO]: [ourfunfamily: Teleported 69 entities to 0.5, 0.0, 0.5]
+[18:57:46] [Server thread/INFO]: [ourfunfamily: Changed the block at 66, 254, 18]
+[18:58:07] [Server thread/INFO]: [ourfunfamily: Changed the block at 66, 255, 18]
+[18:58:23] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to 66.50995798007027, 250.0, 18.417471369297207]
+[18:58:23] [Server thread/WARN]: ourfunfamily moved too quickly! 0.0,229.63186430271966,0.0
+[19:03:20] [Server thread/INFO]: [ourfunfamily: Teleported 67 entities to 0.5, 0.0, 0.5]
+[19:06:04] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[19:06:04] [Server thread/INFO]: ourfunfamily left the game
+[20:33:11] [Server thread/INFO]: Stopping the server
+[20:33:11] [Server thread/INFO]: Stopping server
+[20:33:11] [Server thread/INFO]: Saving players
+[20:33:11] [Server thread/INFO]: Saving worlds
+[20:33:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:33:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:33:11] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:33:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
