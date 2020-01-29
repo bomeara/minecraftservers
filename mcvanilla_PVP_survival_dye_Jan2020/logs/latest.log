@@ -1,0 +1,111 @@
+[19:52:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:52:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:52:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:52:04] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:52:04] [Server thread/INFO]: Loading properties
+[19:52:04] [Server thread/INFO]: Default game type: CREATIVE
+[19:52:04] [Server thread/INFO]: Generating keypair
+[19:52:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:52:05] [Server thread/INFO]: Using default channel type
+[19:52:05] [Server thread/INFO]: Preparing level "world"
+[19:52:05] [Server thread/INFO]: Found new data pack vanilla, loading it automatically
+[19:52:05] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:52:26] [Server thread/INFO]: Loaded 6 recipes
+[19:52:27] [Server thread/INFO]: Loaded 825 advancements
+[19:52:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:52:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[19:52:33] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:52:33] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:52:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[19:52:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[19:52:35] [Server-Worker-3/INFO]: Preparing spawn area: 1%
+[19:52:35] [Server-Worker-2/INFO]: Preparing spawn area: 2%
+[19:52:36] [Server-Worker-3/INFO]: Preparing spawn area: 2%
+[19:52:36] [Server-Worker-3/INFO]: Preparing spawn area: 4%
+[19:52:37] [Server-Worker-3/INFO]: Preparing spawn area: 4%
+[19:52:37] [Server-Worker-1/INFO]: Preparing spawn area: 4%
+[19:52:38] [Server-Worker-3/INFO]: Preparing spawn area: 9%
+[19:52:38] [Server-Worker-2/INFO]: Preparing spawn area: 12%
+[19:52:39] [Server-Worker-3/INFO]: Preparing spawn area: 14%
+[19:52:39] [Server-Worker-3/INFO]: Preparing spawn area: 16%
+[19:52:40] [Server-Worker-3/INFO]: Preparing spawn area: 16%
+[19:52:40] [Server-Worker-2/INFO]: Preparing spawn area: 19%
+[19:52:41] [Server-Worker-2/INFO]: Preparing spawn area: 19%
+[19:52:41] [Server-Worker-3/INFO]: Preparing spawn area: 19%
+[19:52:42] [Server-Worker-1/INFO]: Preparing spawn area: 23%
+[19:52:42] [Server-Worker-1/INFO]: Preparing spawn area: 25%
+[19:52:43] [Server-Worker-3/INFO]: Preparing spawn area: 25%
+[19:52:43] [Server-Worker-3/INFO]: Preparing spawn area: 28%
+[19:52:44] [Server-Worker-1/INFO]: Preparing spawn area: 28%
+[19:52:44] [Server-Worker-3/INFO]: Preparing spawn area: 28%
+[19:52:45] [Server-Worker-3/INFO]: Preparing spawn area: 28%
+[19:52:45] [Server-Worker-1/INFO]: Preparing spawn area: 28%
+[19:52:46] [Server-Worker-1/INFO]: Preparing spawn area: 33%
+[19:52:46] [Server-Worker-1/INFO]: Preparing spawn area: 33%
+[19:52:47] [Server-Worker-3/INFO]: Preparing spawn area: 40%
+[19:52:47] [Server-Worker-2/INFO]: Preparing spawn area: 43%
+[19:52:48] [Server-Worker-3/INFO]: Preparing spawn area: 46%
+[19:52:48] [Server-Worker-3/INFO]: Preparing spawn area: 48%
+[19:52:49] [Server-Worker-1/INFO]: Preparing spawn area: 54%
+[19:52:49] [Server-Worker-1/INFO]: Preparing spawn area: 54%
+[19:52:50] [Server-Worker-3/INFO]: Preparing spawn area: 58%
+[19:52:50] [Server-Worker-1/INFO]: Preparing spawn area: 63%
+[19:52:51] [Server-Worker-1/INFO]: Preparing spawn area: 68%
+[19:52:51] [Server-Worker-2/INFO]: Preparing spawn area: 72%
+[19:52:52] [Server-Worker-3/INFO]: Preparing spawn area: 75%
+[19:52:53] [Server-Worker-3/INFO]: Preparing spawn area: 80%
+[19:52:53] [Server-Worker-3/INFO]: Preparing spawn area: 80%
+[19:52:53] [Server-Worker-3/INFO]: Preparing spawn area: 86%
+[19:52:54] [Server-Worker-2/INFO]: Preparing spawn area: 89%
+[19:52:54] [Server-Worker-2/INFO]: Preparing spawn area: 93%
+[19:52:55] [Server-Worker-3/INFO]: Preparing spawn area: 99%
+[19:52:55] [Server thread/INFO]: Time elapsed: 22549 ms
+[19:52:55] [Server thread/INFO]: Done (49.817s)! For help, type "help"
+[19:57:32] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[19:57:33] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:52802] logged in with entity id 361 at (116.5, 67.0, 94.5)
+[19:57:33] [Server thread/INFO]: ourfunfamily3 joined the game
+[19:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[19:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6619ms or 132 ticks behind
+[19:58:09] [Server thread/WARN]: ourfunfamily3 moved too quickly! 0.0,10.125000402331352,0.0
+[19:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2715ms or 54 ticks behind
+[19:59:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[19:59:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4185ms or 83 ticks behind
+[20:03:29] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to 1920.5, 96.60935725408892, 3040.5]
+[20:03:51] [User Authenticator #2/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[20:03:51] [Server thread/INFO]: ourfunfamily[/192.168.1.130:61440] logged in with entity id 2091 at (103.5, 68.0, 90.5)
+[20:03:51] [Server thread/INFO]: ourfunfamily joined the game
+[20:04:19] [Server thread/INFO]: [ourfunfamily: Created new objective [killCount]]
+[20:06:11] [Server thread/INFO]: [ourfunfamily: Created new objective [Kills]]
+[20:06:30] [Server thread/INFO]: [ourfunfamily3: Set display slot sidebar to show objective Kills]
+[20:06:42] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[20:06:42] [Server thread/WARN]: ourfunfamily3 moved too quickly! -1804.841121403249,-5.0625,-2953.8452987417227
+[20:08:14] [Server thread/WARN]: ourfunfamily3 moved too quickly! 0.9802767305884288,0.0,-10.335355064311614
+[20:09:24] [Server thread/WARN]: ourfunfamily moved too quickly! 10.80661165951534,0.0,1.3354992911748411
+[20:09:28] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to ourfunfamily]
+[20:09:58] [Server thread/INFO]: [ourfunfamily: Set the time to 0]
+[20:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:10:16] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
+[20:10:18] [Server thread/INFO]: ourfunfamily has made the advancement [Monster Hunter]
+[20:10:26] [Server thread/INFO]: ourfunfamily3 was slain by ourfunfamily
+[20:11:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
+[20:11:12] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to -38.5, 105.75106063761748, 857.5]
+[20:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4030ms or 80 ticks behind
+[20:11:58] [Server thread/INFO]: [ourfunfamily: Set spawn point to -35, 80, 835 for ourfunfamily3]
+[20:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20:12:57] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[20:12:57] [Server thread/INFO]: ourfunfamily3 left the game
+[20:13:04] [Server thread/INFO]: Stopping the server
+[20:13:04] [Server thread/INFO]: Stopping server
+[20:13:04] [Server thread/INFO]: Saving players
+[20:13:04] [Server thread/INFO]: Saving worlds
+[20:13:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:13:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
