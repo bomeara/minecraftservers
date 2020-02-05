@@ -1,74 +1,35 @@
-[19:51:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:51:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:51:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:51:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:51:53] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[19:51:53] [Server thread/INFO]: Loading properties
-[19:51:53] [Server thread/INFO]: Default game type: CREATIVE
-[19:51:53] [Server thread/INFO]: Generating keypair
-[19:51:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:51:53] [Server thread/INFO]: Using default channel type
-[19:51:53] [Server thread/INFO]: Preparing level "world"
-[19:51:53] [Server thread/INFO]: Reloading ResourceManager: Default
-[19:52:10] [Server thread/INFO]: Loaded 6 recipes
-[19:52:11] [Server thread/INFO]: Loaded 825 advancements
-[19:52:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:15] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:16] [Server thread/INFO]: Preparing spawn area: 0%
-[19:52:24] [Server thread/INFO]: Time elapsed: 12089 ms
-[19:52:24] [Server thread/INFO]: Done (30.641s)! For help, type "help"
-[19:52:53] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
-[19:52:53] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:49993] logged in with entity id 162 at (125.05742639763989, 66.0, 97.02069119804707)
-[19:52:53] [Server thread/INFO]: ourfunfamily3 joined the game
-[19:53:04] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
-[19:54:21] [User Authenticator #2/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
-[19:54:21] [Server thread/INFO]: ourfunfamily[/192.168.1.130:59748] logged in with entity id 778 at (219.21707379772923, 97.4788159807485, 811.5199215662569)
-[19:54:21] [Server thread/INFO]: ourfunfamily joined the game
-[19:54:30] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
-[19:54:30] [Server thread/WARN]: ourfunfamily moved too quickly! -171.3914292852832,-8.478815980748493,-947.1759381503078
-[19:54:51] [Server thread/INFO]: [ourfunfamily3: Teleported ourfunfamily3 to -479.5, 77.0, 144.5]
-[19:54:57] [Server thread/WARN]: ourfunfamily moved too quickly! 9.92477749625374,0.0,-2.6877096145361747
-[19:54:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
-[19:54:59] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily to ourfunfamily3]
-[19:55:18] [Server thread/INFO]: [ourfunfamily3: Set spawn point to -480, 68, 145 for ourfunfamily3]
-[19:55:26] [Server thread/INFO]: [ourfunfamily: Set spawn point to -450, 63, 194 for ourfunfamily3]
-[19:55:31] [Server thread/INFO]: [ourfunfamily: Teleported ourfunfamily3 to ourfunfamily]
-[19:56:10] [Server thread/INFO]: [ourfunfamily: Set spawn point to -702, 80, 264 for ourfunfamily]
-[19:57:07] [Server thread/INFO]: [ourfunfamily: Gamerule disableRaids is now set to: true]
-[19:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
-[19:57:40] [Server thread/INFO]: [ourfunfamily: Gamerule mobGriefing is now set to: false]
-[19:59:44] [Server thread/INFO]: [ourfunfamily: Gamerule doDaylightCycle is now set to: false]
-[19:59:51] [Server thread/INFO]: [ourfunfamily: Set the time to 6000]
-[20:01:33] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
-[20:01:48] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
-[20:02:28] [Server thread/INFO]: ourfunfamily has made the advancement [Hot Stuff]
-[20:04:10] [Server thread/INFO]: ourfunfamily3 has made the advancement [Stone Age]
-[20:14:51] [Server thread/INFO]: ourfunfamily3 has made the advancement [Ice Bucket Challenge]
-[20:21:30] [Server thread/INFO]: ourfunfamily3 has made the advancement [Hot Stuff]
-[20:28:30] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Survival Mode]
-[20:28:49] [Server thread/INFO]: ourfunfamily3 tried to swim in lava
-[20:29:39] [Server thread/INFO]: [ourfunfamily3: Set own game mode to Creative Mode]
-[20:31:58] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
-[20:31:58] [Server thread/INFO]: ourfunfamily left the game
-[20:36:28] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
-[20:36:28] [Server thread/INFO]: ourfunfamily3 left the game
-[20:36:35] [Server thread/INFO]: Stopping the server
-[20:36:35] [Server thread/INFO]: Stopping server
-[20:36:35] [Server thread/INFO]: Saving players
-[20:36:35] [Server thread/INFO]: Saving worlds
-[20:36:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[20:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:36:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:36:36] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:38:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:38:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:38:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:38:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:38:21] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[16:38:21] [Server thread/INFO]: Loading properties
+[16:38:21] [Server thread/INFO]: Default game type: CREATIVE
+[16:38:21] [Server thread/INFO]: Generating keypair
+[16:38:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:38:22] [Server thread/INFO]: Using default channel type
+[16:38:22] [Server thread/INFO]: Preparing level "world"
+[16:38:22] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:38:42] [Server thread/INFO]: Loaded 6 recipes
+[16:38:42] [Server thread/INFO]: Loaded 825 advancements
+[16:38:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:38:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:38:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:38:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:38:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:38:44] [Server thread/INFO]: Preparing spawn area: 0%
+[16:38:45] [Server thread/INFO]: Time elapsed: 2844 ms
+[16:38:45] [Server thread/INFO]: Done (23.305s)! For help, type "help"
+[17:14:09] [Server thread/INFO]: Stopping the server
+[17:14:09] [Server thread/INFO]: Stopping server
+[17:14:09] [Server thread/INFO]: Saving players
+[17:14:09] [Server thread/INFO]: Saving worlds
+[17:14:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:14:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:09] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:14:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

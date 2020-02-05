@@ -1,0 +1,248 @@
+[19:33:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:33:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:33:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:33:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:33:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:33:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[19:33:01] [Server thread/INFO]: Loading properties
+[19:33:01] [Server thread/INFO]: Default game type: CREATIVE
+[19:33:01] [Server thread/INFO]: Generating keypair
+[19:33:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:01] [Server thread/INFO]: Using default channel type
+[19:33:02] [Server thread/INFO]: Preparing level "world"
+[19:33:02] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:33:25] [Server thread/INFO]: Loaded 6 recipes
+[19:33:25] [Server thread/INFO]: Loaded 825 advancements
+[19:33:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:33:28] [Server thread/INFO]: Preparing spawn area: 60%
+[19:33:34] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:34] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:33:35] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:35] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:36] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[19:33:36] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:33:37] [Server-Worker-2/INFO]: Preparing spawn area: 83%
+[19:33:37] [Server-Worker-1/INFO]: Preparing spawn area: 84%
+[19:33:38] [Server-Worker-2/INFO]: Preparing spawn area: 85%
+[19:33:38] [Server thread/INFO]: Preparing spawn area: 86%
+[19:33:39] [Server-Worker-1/INFO]: Preparing spawn area: 87%
+[19:33:39] [Server thread/INFO]: Preparing spawn area: 89%
+[19:33:40] [Server thread/INFO]: Preparing spawn area: 90%
+[19:33:40] [Server thread/INFO]: Preparing spawn area: 91%
+[19:33:41] [Server-Worker-3/INFO]: Preparing spawn area: 92%
+[19:33:41] [Server-Worker-3/INFO]: Preparing spawn area: 95%
+[19:33:42] [Server-Worker-2/INFO]: Preparing spawn area: 97%
+[19:33:42] [Server thread/INFO]: Time elapsed: 16776 ms
+[19:33:42] [Server thread/INFO]: Done (40.251s)! For help, type "help"
+[19:35:29] [User Authenticator #1/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
+[19:35:29] [Server thread/INFO]: ourfunfamily2[/192.168.1.159:57774] logged in with entity id 162 at (-190.5, 67.0, 15.5)
+[19:35:29] [Server thread/INFO]: ourfunfamily2 joined the game
+[19:36:44] [Server thread/INFO]: ourfunfamily2 lost connection: Disconnected
+[19:36:44] [Server thread/INFO]: ourfunfamily2 left the game
+[19:36:44] [Server thread/WARN]: handleDisconnection() called twice
+[19:39:48] [User Authenticator #2/INFO]: UUID of player ourfunfamily is 181f37dd-c706-49e3-82d3-885785af884a
+[19:39:48] [Server thread/INFO]: ourfunfamily[/192.168.1.130:56160] logged in with entity id 424 at (-194.5, 72.0, 24.5)
+[19:39:48] [Server thread/INFO]: ourfunfamily joined the game
+[19:40:06] [User Authenticator #3/INFO]: UUID of player ourfunfamily2 is 4fe4f51d-e8c9-45be-83f9-03d982505500
+[19:40:06] [Server thread/INFO]: ourfunfamily2[/192.168.1.159:49287] logged in with entity id 478 at (-190.5, 117.11246833415495, 15.5)
+[19:40:06] [Server thread/INFO]: ourfunfamily2 joined the game
+[19:40:35] [Server thread/INFO]: [ourfunfamily: Set the time to 1000]
+[19:40:37] [Server thread/INFO]: <ourfunfamily2> tp ourfunfamily
+[19:40:44] [Server thread/INFO]: Unknown command
+[19:40:44] [Server thread/INFO]: /tptp ourfunfamily2 ourfunfamily<--[HERE]
+[19:40:55] [Server thread/INFO]: Unknown command
+[19:40:55] [Server thread/INFO]: <--[HERE]
+[19:40:55] [Server thread/INFO]: Unknown command
+[19:40:55] [Server thread/INFO]: <--[HERE]
+[19:41:03] [Server thread/INFO]: Teleported ourfunfamily2 to ourfunfamily
+[19:41:09] [Server thread/INFO]: <ourfunfamily2> hi
+[19:41:12] [Server thread/INFO]: [Server] It was me
+[19:41:30] [Server thread/INFO]: [Server] I am a server who serves. Give me tips.
+[19:41:47] [Server thread/INFO]: [Server] spawn dragon
+[19:42:01] [Server thread/INFO]: <ourfunfamily2> hello
+[19:42:08] [Server thread/INFO]: [Server] howdy
+[19:42:20] [Server thread/INFO]: [Server] Mr. Edwards says do your homework
+[19:42:46] [Server thread/INFO]: [Server] spawn iNaturalist
+[19:43:37] [Server thread/INFO]: Gave 1 [Block of Diamond] to 2
+[19:44:24] [Server thread/INFO]: Unknown item 'minecraft:'
+[19:44:24] [Server thread/INFO]: give @a  minecraft:diamond_sword{display:{Lore:["\"A legendary weapon\""]}} 1<--[HERE]
+[19:44:46] [Server thread/INFO]: Gave 1 [Diamond Sword] to 2
+[19:46:02] [Server thread/INFO]: ourfunfamily has made the advancement [Hot Stuff]
+[19:48:02] [Server thread/INFO]: Incorrect argument for command
+[19:48:02] [Server thread/INFO]: /execute @a ~ ~ ~ summon spider ~ ~1 ~ {Passengers:[{id:skeleton,HandItems:[{Count:1,id:bow},{Count:1,id:shield}],ArmorItems:[{Count:1,id:diamond_boots},{Count:1,id:diamond_leggings},{Count:1,id:diamond_chestplate},{Count:1,id:diamond_helmet}],CustomName:Killer,Visible:1,HandDropChances:[1.0f,1.0f],ArmorDropChances:[1.0f,1.0f,1.0f,1.0f],ActiveEffects:[{Id:1,Amplifier:1,Duration:999999},{Id:5,Amplifier:1,Duration:999999},{Id:8,Amplifier:1,Duration:999999},{Id:12,Amplifier:0,Duration:999999}]}]}<--[HERE]
+[19:48:03] [Server thread/INFO]: Unknown command
+[19:48:03] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Incorrect argument for command
+[19:48:16] [Server thread/INFO]: execute @a ~ ~ ~ summon spider ~ ~1 ~ {Passengers:[{id:skeleton,HandItems:[{Count:1,id:bow},{Count:1,id:shield}],ArmorItems:[{Count:1,id:diamond_boots},{Count:1,id:diamond_leggings},{Count:1,id:diamond_chestplate},{Count:1,id:diamond_helmet}],CustomName:Killer,Visible:1,HandDropChances:[1.0f,1.0f],ArmorDropChances:[1.0f,1.0f,1.0f,1.0f],ActiveEffects:[{Id:1,Amplifier:1,Duration:999999},{Id:5,Amplifier:1,Duration:999999},{Id:8,Amplifier:1,Duration:999999},{Id:12,Amplifier:0,Duration:999999}]}]}<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Of course this can be changed to spawn any mob like this:<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Incorrect argument for command
+[19:48:16] [Server thread/INFO]: execute @a ~ ~ ~ summon <your mob> [x] [y] [z] [dataTag]<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Also, if you wanted to summon it at the location of the nearest player you simply change the @a to @p<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Or to do a specific player enter @a[name=<player name>]<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: shareimprove this answer<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: answered Apr 25 '17 at 14:33<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Jake<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 31922 silver badges1212 bronze badges<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: It might also be good to use @e for this kind of thing, allowing you to also spawn mobs near other mobs – RS_Mind Jan 6 '18 at 22:39<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 1.13 syntax: /execute at @a run summon <your mob> ... – pppery Jul 9 '19 at 14:27<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: add a comment<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 0<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: you could do /tp @e @p to tp all mobs to you not sure if that is what you are looking for<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: shareimprove this answer<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: answered Jul 13 '18 at 10:47<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: user212570<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 1<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: add a comment<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Your Answer<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Sign up or log in<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]:  Sign up using Google<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]:  Sign up using Facebook<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]:  Sign up using Email and Password<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Post as a guest<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Name<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Email<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Required, but never shown<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Post Your Answer<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: By clicking “Post Your Answer”, you agree to our terms of service, privacy policy and cookie policy<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: <--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Not the answer you're looking for? Browse other questions tagged minecraft-java-edition minecraft-commands or ask your own question.<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Featured on Meta<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Planned Maintenance scheduled for Wednesday, February 5, 2020 for Data Explorer<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Welcome Dragonrage and Unionhawk to the Moderator Team!<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Let’s build some Arqade community ads - submissions are closed, vote now!<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: The great Minecraft tag family cleanup!<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Related<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 4<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Stacking player on mobs<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 2<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: How to summon this sequence of stacked mobs<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 1<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: How do you summon mobs to dropped items?<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 1<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Summon 10 Zombies at players position, to all players<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 0<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: Need Help With a command: testforblock near Player!<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: 0<--[HERE]
+[19:48:16] [Server thread/INFO]: Unknown command
+[19:48:16] [Server thread/INFO]: How to summon mobs with a different health value?<--[HERE]
+[19:50:09] [Server thread/INFO]: Unknown command
+[19:50:09] [Server thread/INFO]: 1summon ocelot @a<--[HERE]
+[19:50:29] [Server thread/INFO]: [ourfunfamily: Applied effect Glowing to ourfunfamily2]
+[19:51:04] [Server thread/INFO]: Gave 1 [Debug Stick] to 2
+[19:51:24] [Server thread/INFO]: [ourfunfamily2: Applied effect Glowing to ourfunfamily]
+[19:52:53] [Server thread/INFO]: [ourfunfamily: Set the time to 1000]
+[19:53:12] [Server thread/WARN]: Couldn't load custom particle mobSpell
+com.mojang.brigadier.exceptions.CommandSyntaxException: Unknown particle: minecraft:mob
+[19:53:12] [Server thread/INFO]: Summoned new Area Effect Cloud
+[19:55:37] [Server thread/INFO]: [ourfunfamily: Set the weather to clear]
+[19:57:23] [Server thread/INFO]: [ourfunfamily2: Applied effect Glowing to ourfunfamily]
+[19:58:24] [Server thread/INFO]: [ourfunfamily: Applied effect Glowing to ourfunfamily]
+[19:59:54] [Server thread/INFO]: [ourfunfamily: Removed every effect from 2 targets]
+[20:01:34] [Server thread/INFO]: [ourfunfamily: Set the weather to clear]
+[20:04:04] [Server thread/INFO]: [ourfunfamily: Gamerule doDaylightCycle is now set to: false]
+[20:04:08] [Server thread/INFO]: [ourfunfamily: Set the time to 6000]
+[20:06:14] [Server thread/INFO]: ourfunfamily has made the advancement [Bring Home the Beacon]
+[20:07:00] [Server thread/INFO]: [ourfunfamily: Set the weather to clear]
+[20:07:16] [Server thread/INFO]: [ourfunfamily: Gamerule doWeatherCycle is now set to: false]
+[20:07:35] [Server thread/INFO]: [ourfunfamily2: Gamerule doFireTick is now set to: false]
+[20:07:56] [Server thread/INFO]: ourfunfamily2 has made the advancement [Hot Stuff]
+[20:11:09] [Server thread/INFO]: [ourfunfamily: Successfully filled 31 blocks]
+[20:13:43] [Server thread/WARN]: ourfunfamily moved too quickly! -10.653682258594074,0.0,-0.3565784972363417
+[20:31:55] [Server thread/INFO]: ourfunfamily lost connection: Disconnected
+[20:31:55] [Server thread/INFO]: ourfunfamily left the game
+[20:54:31] [Server thread/INFO]: ourfunfamily2 lost connection: Disconnected
+[20:54:31] [Server thread/INFO]: ourfunfamily2 left the game
+[20:56:02] [Server thread/INFO]: Stopping the server
+[20:56:02] [Server thread/INFO]: Stopping server
+[20:56:02] [Server thread/INFO]: Saving players
+[20:56:02] [Server thread/INFO]: Saving worlds
+[20:56:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:56:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:56:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:56:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:56:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:56:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:56:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:56:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:56:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
