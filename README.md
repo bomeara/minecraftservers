@@ -30,3 +30,7 @@ Battle arena
 Version 1.15
 
 ![screenshot](mcvanilla_eb_1.15_Dec2019.jpg)
+
+Renders made with overviewer (go to Minecraft-Overviewer github repo):
+
+`./overviewer.py /Users/bomeara/Documents/MyDocuments/GitClones/minecraftservers/mcvanilla_blownuphouse2_1.15_Dec2019/world /Users/bomeara/Documents/MyDocuments/GitClones/minecraftservers/overviewer/mcvanilla_blownuphouse2_1.15_Dec2019` for making an overview of the world for mcvanilla_blownuphouse2_1.15_Dec2019 and putting it in the minecraftservers/overviewer/mcvanilla_blownuphouse2_1.15_Dec2019 directory
