@@ -1,0 +1,56 @@
+[09:05:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:05:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:05:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:05:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:05:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:05:39] [Server thread/INFO]: Starting minecraft server version 1.15
+[09:05:39] [Server thread/INFO]: Loading properties
+[09:05:39] [Server thread/INFO]: Default game type: CREATIVE
+[09:05:39] [Server thread/INFO]: Generating keypair
+[09:05:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:05:40] [Server thread/INFO]: Using default channel type
+[09:05:41] [Server thread/INFO]: Preparing level "world"
+[09:05:41] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:05:59] [Server thread/INFO]: Loaded 6 recipes
+[09:05:59] [Server thread/INFO]: Loaded 825 advancements
+[09:06:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:02] [Server thread/WARN]: Unable to resolve BlockEntity for ItemStack: minecraft:air
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:04] [Server thread/INFO]: Preparing spawn area: 0%
+[09:06:05] [Server thread/INFO]: Preparing spawn area: 83%
+[09:06:05] [Server thread/INFO]: Time elapsed: 5345 ms
+[09:06:05] [Server thread/INFO]: Done (24.431s)! For help, type "help"
+[09:06:33] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[09:06:33] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:52486] logged in with entity id 267 at (-50.73781452041541, 70.90779718977033, -361.6404994488226)
+[09:06:33] [Server thread/INFO]: ourfunfamily3 joined the game
+[09:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[09:07:22] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[09:07:22] [Server thread/INFO]: ourfunfamily3 left the game
+[09:07:25] [Server thread/INFO]: Stopping the server
+[09:07:25] [Server thread/INFO]: Stopping server
+[09:07:25] [Server thread/INFO]: Saving players
+[09:07:25] [Server thread/INFO]: Saving worlds
+[09:07:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:07:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:07:25] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:07:27] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:07:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

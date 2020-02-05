@@ -1,0 +1,50 @@
+[07:23:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:23:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:23:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:23:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:23:01] [Server thread/INFO]: Starting minecraft server version 1.15
+[07:23:01] [Server thread/INFO]: Loading properties
+[07:23:01] [Server thread/INFO]: Default game type: CREATIVE
+[07:23:01] [Server thread/INFO]: Generating keypair
+[07:23:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:23:01] [Server thread/INFO]: Using default channel type
+[07:23:01] [Server thread/INFO]: Preparing level "world"
+[07:23:02] [Server thread/INFO]: Reloading ResourceManager: Default
+[07:23:18] [Server thread/INFO]: Loaded 6 recipes
+[07:23:18] [Server thread/INFO]: Loaded 825 advancements
+[07:23:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:20] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:22] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:22] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:22] [Server thread/INFO]: Preparing spawn area: 0%
+[07:23:22] [Server thread/INFO]: Preparing spawn area: 83%
+[07:23:22] [Server thread/INFO]: Time elapsed: 3834 ms
+[07:23:22] [Server thread/INFO]: Done (21.087s)! For help, type "help"
+[07:25:06] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[07:25:07] [Server thread/INFO]: ourfunfamily3[/192.168.1.165:51150] logged in with entity id 378 at (-7.8202783448136834, 88.0, 23.03492872279833)
+[07:25:07] [Server thread/INFO]: ourfunfamily3 joined the game
+[07:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2088ms or 41 ticks behind
+[07:26:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47211ms or 944 ticks behind
+[07:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41932ms or 838 ticks behind
+[07:28:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36950ms or 739 ticks behind
+[07:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41042ms or 820 ticks behind
+[07:29:06] [Server thread/INFO]: Unknown command
+[07:29:06] [Server thread/INFO]: STOP<--[HERE]
+[07:29:08] [Server thread/INFO]: Stopping the server
+[07:29:08] [Server thread/INFO]: Stopping server
+[07:29:08] [Server thread/INFO]: Saving players
+[07:29:08] [Server thread/INFO]: ourfunfamily3 lost connection: Server closed
+[07:29:08] [Server thread/INFO]: ourfunfamily3 left the game
+[07:29:08] [Server thread/INFO]: Saving worlds
+[07:29:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[07:29:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:29:08] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[07:29:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:29:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[07:29:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:29:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:29:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:29:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

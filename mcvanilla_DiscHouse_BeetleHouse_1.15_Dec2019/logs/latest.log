@@ -1,0 +1,115 @@
+[09:16:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:16:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:16:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:16:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:16:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:16:27] [Server thread/INFO]: Starting minecraft server version 1.15
+[09:16:27] [Server thread/INFO]: Loading properties
+[09:16:27] [Server thread/INFO]: Default game type: CREATIVE
+[09:16:27] [Server thread/INFO]: Generating keypair
+[09:16:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:16:28] [Server thread/INFO]: Using default channel type
+[09:16:29] [Server thread/INFO]: Preparing level "world"
+[09:16:29] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:16:47] [Server thread/INFO]: Loaded 6 recipes
+[09:16:48] [Server thread/INFO]: Loaded 825 advancements
+[09:16:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:53] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:54] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:54] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:54] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:54] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:54] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:54] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:55] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:55] [Server thread/INFO]: Preparing spawn area: 0%
+[09:16:57] [Server thread/INFO]: Preparing spawn area: 2%
+[09:16:57] [Server thread/INFO]: Preparing spawn area: 2%
+[09:16:57] [Server thread/INFO]: Preparing spawn area: 2%
+[09:16:59] [Server thread/INFO]: Preparing spawn area: 6%
+[09:16:59] [Server thread/INFO]: Preparing spawn area: 6%
+[09:16:59] [Server thread/INFO]: Preparing spawn area: 6%
+[09:16:59] [Server thread/INFO]: Preparing spawn area: 6%
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID af626864-179a-462b-ad18-59683232895a
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID a844dccd-6cae-448c-bed2-8ff878741a82
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID b4861352-5106-4047-b7a0-73569db178ac
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID add8645b-e825-4810-94cf-7e1d52dacead
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID 29cc5860-8c50-4a1f-8673-e1dde5df0c4d
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID 7d0069f7-cdd8-4c05-9ada-fdeba58c9435
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID 5119bf6a-22f3-4d07-b654-cf4e73e46bca
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:tropical_fish that already exists with UUID beb40b8e-ac02-466a-9093-529859b9a6a2
+[09:16:59] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 60c34c50-e16e-4813-a6ac-611ff8fe6c4a
+[09:17:00] [Server thread/INFO]: Preparing spawn area: 25%
+[09:17:00] [Server thread/INFO]: Preparing spawn area: 25%
+[09:17:00] [Server thread/INFO]: Preparing spawn area: 25%
+[09:17:00] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID cf1661d3-8c78-4712-8267-37acd391855f
+[09:17:00] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID b01b9ee5-4807-4004-91ed-b6552b53ba32
+[09:17:01] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID dea50eea-6552-4a19-978a-a2f1c537bae2
+[09:17:01] [Server thread/WARN]: Keeping entity minecraft:chicken that already exists with UUID 50227887-b44f-43ee-af6c-c6e6eefd7038
+[09:17:01] [Server thread/INFO]: Preparing spawn area: 33%
+[09:17:02] [Server thread/INFO]: Preparing spawn area: 37%
+[09:17:02] [Server thread/INFO]: Preparing spawn area: 37%
+[09:17:03] [Server thread/INFO]: Preparing spawn area: 41%
+[09:17:03] [Server thread/INFO]: Preparing spawn area: 41%
+[09:17:04] [Server thread/INFO]: Preparing spawn area: 48%
+[09:17:04] [Server thread/INFO]: Preparing spawn area: 48%
+[09:17:05] [Server thread/INFO]: Preparing spawn area: 56%
+[09:17:05] [Server thread/INFO]: Preparing spawn area: 56%
+[09:17:05] [Server thread/WARN]: Keeping entity minecraft:turtle that already exists with UUID b1e5030c-bb12-49d9-ac43-f137408fad95
+[09:17:06] [Server thread/INFO]: Preparing spawn area: 63%
+[09:17:06] [Server thread/INFO]: Preparing spawn area: 63%
+[09:17:06] [Server thread/INFO]: Preparing spawn area: 72%
+[09:17:07] [Server thread/INFO]: Preparing spawn area: 75%
+[09:17:09] [Server thread/INFO]: Preparing spawn area: 78%
+[09:17:09] [Server thread/INFO]: Preparing spawn area: 78%
+[09:17:09] [Server thread/INFO]: Preparing spawn area: 78%
+[09:17:09] [Server thread/INFO]: Preparing spawn area: 78%
+[09:17:09] [Server thread/INFO]: Time elapsed: 20944 ms
+[09:17:09] [Server thread/INFO]: Done (40.383s)! For help, type "help"
+[09:19:41] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/pink_dye_from_red_bonemeal' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/sign' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/cactus_green' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cactus_green removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:cactus_green removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_gray_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_blue_dye_from_lapis_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sign removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:pink_dye_from_red_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:light_gray_dye_from_ink_bonemeal removed now.
+[09:19:41] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:magenta_dye_from_lapis_ink_bonemeal removed now.
+[09:19:41] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:52756] logged in with entity id 832 at (-317.30000001192093, 86.30572179120618, 23.57171463837678)
+[09:19:41] [Server thread/INFO]: ourfunfamily3 joined the game
+[09:19:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[09:20:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29891ms or 597 ticks behind
+[09:20:29] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[09:20:29] [Server thread/INFO]: ourfunfamily3 left the game
+[09:20:33] [Server thread/INFO]: Stopping the server
+[09:20:33] [Server thread/INFO]: Stopping server
+[09:20:33] [Server thread/INFO]: Saving players
+[09:20:33] [Server thread/INFO]: Saving worlds
+[09:20:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:20:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:20:33] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:20:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:20:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

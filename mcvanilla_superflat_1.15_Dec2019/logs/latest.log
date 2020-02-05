@@ -1,0 +1,50 @@
+[09:25:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:25:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:25:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:25:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:25:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:25:04] [Server thread/INFO]: Starting minecraft server version 1.15
+[09:25:04] [Server thread/INFO]: Loading properties
+[09:25:04] [Server thread/INFO]: Default game type: CREATIVE
+[09:25:04] [Server thread/INFO]: Generating keypair
+[09:25:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:25:05] [Server thread/INFO]: Using default channel type
+[09:25:05] [Server thread/INFO]: Preparing level "world"
+[09:25:06] [Server thread/INFO]: Reloading ResourceManager: Default
+[09:25:29] [Server thread/INFO]: Loaded 6 recipes
+[09:25:39] [Server thread/INFO]: Loaded 825 advancements
+[09:25:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 0%
+[09:25:44] [Server thread/INFO]: Preparing spawn area: 10%
+[09:25:45] [Server thread/INFO]: Time elapsed: 5428 ms
+[09:25:45] [Server thread/INFO]: Done (40.070s)! For help, type "help"
+[09:26:17] [User Authenticator #1/INFO]: UUID of player ourfunfamily3 is 2e4e121d-c129-4f0a-b86a-283a9fa8d4cb
+[09:26:17] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/sugar' in progress file ./world/advancements/2e4e121d-c129-4f0a-b86a-283a9fa8d4cb.json - it doesn't exist anymore?
+[09:26:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sugar removed now.
+[09:26:17] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:sugar removed now.
+[09:26:17] [Server thread/INFO]: ourfunfamily3[/127.0.0.1:52868] logged in with entity id 276 at (24.139217770208838, 4.0, 88.36124096411594)
+[09:26:18] [Server thread/INFO]: ourfunfamily3 joined the game
+[09:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[09:26:30] [Server thread/INFO]: ourfunfamily3 lost connection: Disconnected
+[09:26:30] [Server thread/INFO]: ourfunfamily3 left the game
+[09:26:38] [Server thread/INFO]: Stopping the server
+[09:26:38] [Server thread/INFO]: Stopping server
+[09:26:38] [Server thread/INFO]: Saving players
+[09:26:38] [Server thread/INFO]: Saving worlds
+[09:26:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[09:26:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:26:38] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[09:26:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:26:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[09:26:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:26:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:26:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:26:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

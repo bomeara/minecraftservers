@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "4fe4f51d-e8c9-45be-83f9-03d982505500",
+    "name": "ourfunfamily2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "181f37dd-c706-49e3-82d3-885785af884a",
+    "name": "ourfunfamily",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2e4e121d-c129-4f0a-b86a-283a9fa8d4cb",
+    "name": "ourfunfamily3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
