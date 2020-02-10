@@ -5,3 +5,5 @@ for (i in seq_along(dirs)) {
     try(system(paste0("/Users/bomeara/Documents/MyDocuments/GitClones/Minecraft-Overviewer/overviewer.py ", paste0(dirs[i],"/world "), paste0("overviewer/", dirs[i]))))
   }
 }
+
+system("open overviewer/*/index.html")
