@@ -12,9 +12,9 @@ minecraft-server:
   image: itzg/minecraft-server
 
   volumes:
-    - /Users/bomeara/Dropbox/minecraft/mcvanilla_brianna_emmett:/data
+    - /Users/gnomeara/Desktop/cheeseserver:/data
 
-  container_name: mcvanilla_brianna_emmett
+  container_name: mc_cheese
 
   tty: true
   stdin_open: true
